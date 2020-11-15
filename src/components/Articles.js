@@ -14,13 +14,13 @@ function ArticleSection() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='./images/Presentation.jpg'
+              src='/images/Presentation.jpg'
               text='Career Change : From Investment Banking to Fintech'
               label='Fintech'
               path='/fintech'
             />
             <CardItem
-              src='./images/London.jpg'
+              src='/images/London.jpg'
               text='What is Open Banking?'
               label='Open Banking'
               path='/openbanking'
@@ -28,13 +28,13 @@ function ArticleSection() {
             </ul>
             <ul className='cards__items'>
             <CardItem
-              src='./images/FXMarket.jpeg'
+              src='/images/FXMarket.jpeg'
               text='Foreign Exchange: Background and Opportunities'
               label='Foreign Exchange'
               path='/fxmarket'
             />
             <CardItem
-              src='./images/Ethics.jpeg'
+              src='/images/Ethics.jpeg'
               text='Values and Ethics in Fintech'
               label='Ethics'
               path='/ethics'

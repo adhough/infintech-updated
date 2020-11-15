@@ -13,13 +13,13 @@ function ProjectSection() {
   <div className='cards__wrapper'>
     <ul className='cards__items'>
       <CardItem
-        src='./images/Agile.jpeg'
+        src='/images/Agile.jpeg'
         text='Agile Project Tracker'
         label='Agile'
         path='/agile'
       />
       <CardItem
-        src='./images/Libor.jpeg'
+        src='/images/Libor.jpeg'
         text='Average Libor Estimator'
         label='Libor'
         path='/avglibor'
@@ -27,13 +27,13 @@ function ProjectSection() {
       </ul>
       <ul className='cards__items'>
       <CardItem
-        src='./images/SecModel.jpeg'
+        src='/images/SecModel.jpeg'
         text='Securitisation Model'
         label='Securitisation'
         path='/secmodel'
       />
       <CardItem
-        src='./images/FXModel.jpeg'
+        src='/images/FXModel.jpeg'
         text='FX Risk Model'
         label='FX Risk'
         path='/fxrisk'
