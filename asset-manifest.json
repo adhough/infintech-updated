@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/infintech-updated/static/css/main.50a8a273.chunk.css",
-    "main.js": "/infintech-updated/static/js/main.c288dfc1.chunk.js",
-    "main.js.map": "/infintech-updated/static/js/main.c288dfc1.chunk.js.map",
+    "main.js": "/infintech-updated/static/js/main.9a8bc8e5.chunk.js",
+    "main.js.map": "/infintech-updated/static/js/main.9a8bc8e5.chunk.js.map",
     "runtime-main.js": "/infintech-updated/static/js/runtime-main.d5c8789e.js",
     "runtime-main.js.map": "/infintech-updated/static/js/runtime-main.d5c8789e.js.map",
     "static/js/2.92fd8c28.chunk.js": "/infintech-updated/static/js/2.92fd8c28.chunk.js",
@@ -13,7 +13,6 @@
     "static/media/Adrian.844a6a59.png": "/infintech-updated/static/media/Adrian.844a6a59.png",
     "static/media/Agile.7107127b.jpeg": "/infintech-updated/static/media/Agile.7107127b.jpeg",
     "static/media/Ethics.3b673d0a.jpeg": "/infintech-updated/static/media/Ethics.3b673d0a.jpeg",
-    "static/media/FXMarket.91220d1a.jpeg": "/infintech-updated/static/media/FXMarket.91220d1a.jpeg",
     "static/media/FXModel.ab4830fb.jpeg": "/infintech-updated/static/media/FXModel.ab4830fb.jpeg",
     "static/media/FXmarket.91220d1a.jpeg": "/infintech-updated/static/media/FXmarket.91220d1a.jpeg",
     "static/media/EntrySection.css": "/infintech-updated/static/media/Image1.a7e0869f.jpeg",
@@ -28,6 +27,6 @@
     "static/js/runtime-main.d5c8789e.js",
     "static/js/2.92fd8c28.chunk.js",
     "static/css/main.50a8a273.chunk.css",
-    "static/js/main.c288dfc1.chunk.js"
+    "static/js/main.9a8bc8e5.chunk.js"
   ]
 }
