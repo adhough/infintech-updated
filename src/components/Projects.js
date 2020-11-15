@@ -5,7 +5,7 @@ import './Projects.css';
 import CardItem from './CardItem';
 import { Button } from './ArticlesButton';
 import Agile from './images/Agile.jpeg'
-import FXMarket from './images/FXMarket.jpeg'
+import FXModel from './images/FXModel.jpeg'
 import Libor from './images/Libor.jpeg'
 import SecModel from './images/SecModel.jpeg'
 
@@ -37,7 +37,7 @@ function ProjectSection() {
         path='/secmodel'
       />
       <CardItem
-        src={FXMarket}
+        src={FXModel}
         text='FX Risk Model'
         label='FX Risk'
         path='/fxrisk'
