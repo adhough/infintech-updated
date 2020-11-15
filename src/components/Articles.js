@@ -6,7 +6,7 @@ import './Articles.css';
 import CardItem from './CardItem';
 import Presentation from './images/Presentation.jpg'
 import London from './images/London.jpg'
-import FXMarket from './images/FXMarket.jpeg'
+import FXMarket from './images/FXmarket.jpeg'
 import Ethics from './images/Ethics.jpeg'
 
 function ArticleSection() {
