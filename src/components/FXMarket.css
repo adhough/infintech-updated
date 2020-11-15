@@ -1,0 +1,153 @@
+video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.fxmarket-container {
+  /* background: url('/images/Image8.jpeg') center center/cover no-repeat; */
+  background-color: #394b66;
+  height: 120%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+  padding: 16px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+.fxmarket-container > h1 {
+  color: #fff;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+.fxmarket-container > img{
+  height: 50%;
+  width: 50%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.fx-article-container > h3 {
+  color: black;
+  font-size: 4  0px;
+  align-items: center;
+  justify-content: center;
+
+}
+.fx-article-container {
+
+  background-color: #fff;
+  height: 100%;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  object-fit: contain;
+  padding: 16px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+.fx-article-container > p {
+  margin-top: 8px;
+  color: black;
+  font-size: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.fxmarket-btns {
+  margin-top: 32px;
+}
+
+.fxmarket-btns .btn {
+  margin: 6px;
+}
+
+.fa-play-circle {
+  margin-left: 4px;
+}
+
+@media screen and (max-width: 960px) {
+  .fxmarket-container {
+    height: 550vh;
+  }
+  .fxmarket-container > img {
+    height: 10%;
+    width: 50%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .fxmarket-container > h1 {
+    font-size: 60px;
+    margin-top: 0px;
+  }
+  .fx-article-container {
+
+    background-color: #fff;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    object-fit: contain;
+    padding: 16px;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .fxmarket-container {
+    height: 900vh;
+  }
+  .fxmarket-container > h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+
+  .fxmarket-container > p {
+    font-size: 30px;
+  }
+  .fxmarket-container > img {
+    height: 4%;
+    width: 60%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .fx-article-container {
+
+    background-color: #fff;
+    height: 88%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    object-fit: contain;
+    padding: 16px;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}

@@ -1,0 +1,123 @@
+video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.avglibor-container {
+  /* background: url('/images/Image7.jpeg') center center/cover no-repeat; */
+  background-color: #bfc2c1;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+  padding: 16px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.avglibor-container > h1 {
+  color: white;
+  font-size: 60px;
+  margin-top: 5vh;
+}
+
+.avglibor-project-container > h3 {
+  color: black;
+  font-size: 4  0px;
+
+}
+.avglibor-project-container {
+
+  background-color: #fff;
+  height: 40%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  object-fit: contain;
+  padding: 16px;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.avglibor-project-container > img {
+  height: 50%;
+  width: 50%;
+  border: 1px solid black;
+
+}
+.avglibor-project-container > p {
+  margin-top: 8px;
+  color: black;
+  font-size: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.avglibor-btns {
+  margin-top: 32px;
+}
+
+.avglibor-btns .btn {
+  margin: 6px;
+}
+
+.fa-play-circle {
+  margin-left: 4px;
+}
+
+@media screen and (max-width: 960px) {
+  .avglibor-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+  .avglibor-project-container {
+    width: 60%;
+  }
+
+  .avglibor-project-container > img {
+    height: 50%;
+    width: 70%;
+    border: 1px solid black;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .avglibor-container {
+    height: 150vh;
+  }
+  .avglibor-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .avglibor-container > p {
+    font-size: 30px;
+  }
+  .avglibor-project-container {
+    width: 85%;
+    height: 60%;
+  }
+  .avglibor-project-container > img {
+    height: 40%;
+    width: 90%;
+    border: 1px solid black;
+
+  }
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}

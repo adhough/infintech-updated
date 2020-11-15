@@ -1,0 +1,129 @@
+video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.contact-container {
+  background-color: #d1981f;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 130vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+}
+.contact-container > h1 {
+  color: #fff;
+  font-size: 60px;
+  margin-top: 5vh;
+}
+.contact-container > h3 {
+  color: #fff;
+  font-size: 100px;
+  margin-top: -100px;
+}
+
+.contact-container > a {
+  margin-top: 8px;
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+.contact-container > p {
+  margin-top: 8px;
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+.contact-text-container {
+
+  background-color: #d1981f;
+  color: #fff;
+  height: 80%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  object-fit: contain;
+  padding: 16px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.contact-text-container > img{
+  height: 60%;
+  width: 90%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.contact-btns {
+  margin-top: 32px;
+}
+
+.contact-btns .btn {
+  margin: 6px;
+}
+
+.fa-play-circle {
+  margin-left: 4px;
+}
+
+.social-icon-contactlink {
+  color: #fff;
+  font-size: 40px;
+}
+
+@media screen and (max-width: 960px) {
+  .contact-container {
+    height: 500px;
+  }
+  .contact-container > h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    height: 200px;
+  }
+  .contact-text-container > img{
+    height: 40%;
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+  .contact-container {
+    height: 1000px;
+  }
+  .contact-container > h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+  .contact-container > p {
+    font-size: 30px;
+  }
+  .contact-text-container {
+    width: 70%;
+  }
+  .contact-text-container > img{
+    height: 30%;
+    width: 90%;
+}
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
