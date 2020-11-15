@@ -113,6 +113,7 @@ video {
   }
   .contact-text-container {
     width: 70%;
+    height: 90%;
   }
   .contact-text-container > img{
     height: 30%;

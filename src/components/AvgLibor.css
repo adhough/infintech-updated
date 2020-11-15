@@ -92,7 +92,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .avglibor-container {
-    height: 150vh;
+    height: 140vh;
   }
   .avglibor-container > h1 {
     font-size: 50px;

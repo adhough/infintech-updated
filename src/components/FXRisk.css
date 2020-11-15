@@ -97,7 +97,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .fxrisk-container{
-    height: 150vh;
+    height: 140vh;
   }
   .fxrisk-container > h1 {
     font-size: 50px;
@@ -109,7 +109,7 @@ video {
   }
   .fxrisk-project-container {
     width: 85%;
-    height: 60%;
+    height: 70%;
   }
   .fxrisk-project-container > img {
     height: 30%;
