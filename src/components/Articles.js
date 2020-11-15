@@ -4,6 +4,10 @@ import '../App.css';
 import { Button } from './ContactButton';
 import './Articles.css';
 import CardItem from './CardItem';
+import Presentation from './images/Presentation.jpg'
+import London from './images/London.jpg'
+import FXMarket from './images/FXMarket.jpeg'
+import Ethics from './images/Ethics.jpeg'
 
 function ArticleSection() {
   return (
@@ -14,13 +18,13 @@ function ArticleSection() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='/images/Presentation.jpg'
+              src={Presentation}
               text='Career Change : From Investment Banking to Fintech'
               label='Fintech'
               path='/fintech'
             />
             <CardItem
-              src='/images/London.jpg'
+              src={London}
               text='What is Open Banking?'
               label='Open Banking'
               path='/openbanking'
@@ -28,13 +32,13 @@ function ArticleSection() {
             </ul>
             <ul className='cards__items'>
             <CardItem
-              src='/images/FXMarket.jpeg'
+              src={FXMarket}
               text='Foreign Exchange: Background and Opportunities'
               label='Foreign Exchange'
               path='/fxmarket'
             />
             <CardItem
-              src='/images/Ethics.jpeg'
+              src={Ethics}
               text='Values and Ethics in Fintech'
               label='Ethics'
               path='/ethics'

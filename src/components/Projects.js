@@ -4,6 +4,10 @@ import '../App.css';
 import './Projects.css';
 import CardItem from './CardItem';
 import { Button } from './ArticlesButton';
+import Agile from './images/Agile.jpeg'
+import FXMarket from './images/FXMarket.jpeg'
+import Libor from './images/Libor.jpeg'
+import SecModel from './images/SecModel.jpeg'
 
 function ProjectSection() {
   return (
@@ -13,13 +17,13 @@ function ProjectSection() {
   <div className='cards__wrapper'>
     <ul className='cards__items'>
       <CardItem
-        src='/images/Agile.jpeg'
+        src={Agile}
         text='Agile Project Tracker'
         label='Agile'
         path='/agile'
       />
       <CardItem
-        src='/images/Libor.jpeg'
+        src={Libor}
         text='Average Libor Estimator'
         label='Libor'
         path='/avglibor'
@@ -27,13 +31,13 @@ function ProjectSection() {
       </ul>
       <ul className='cards__items'>
       <CardItem
-        src='/images/SecModel.jpeg'
+        src={SecModel}
         text='Securitisation Model'
         label='Securitisation'
         path='/secmodel'
       />
       <CardItem
-        src='/images/FXModel.jpeg'
+        src={FXModel}
         text='FX Risk Model'
         label='FX Risk'
         path='/fxrisk'
