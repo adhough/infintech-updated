@@ -37,7 +37,7 @@ function ProjectSection() {
         path='/secmodel'
       />
       <CardItem
-        src={FXModel}
+        src={FXMarket}
         text='FX Risk Model'
         label='FX Risk'
         path='/fxrisk'
