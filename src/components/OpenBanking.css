@@ -27,7 +27,7 @@ video {
   margin-top: 0px;
 }
 .openbanking-container > img{
-  height: 40%;
+  height: 35%;
   width: 100%;
   display: block;
   justify-content: center;
@@ -44,7 +44,7 @@ video {
 .open-article-container {
 
   background-color: #fff;
-  height: 100%;
+  height: 90%;
   width: 100%;
   display: flex;
   flex-direction: column;

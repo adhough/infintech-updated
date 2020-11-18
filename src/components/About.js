@@ -4,7 +4,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ValuesButton';
 import './About.css';
-import AdrianPhoto from './images/Adrian.png'
+import AdrianPhoto from './images/Adrian_2.png'
 
 function AboutSection() {
   return (
