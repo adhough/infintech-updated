@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infintech-updated/static/css/main.07a4ee93.chunk.css",
+    "main.css": "/infintech-updated/static/css/main.d0e63617.chunk.css",
     "main.js": "/infintech-updated/static/js/main.f9fd11ba.chunk.js",
     "main.js.map": "/infintech-updated/static/js/main.f9fd11ba.chunk.js.map",
     "runtime-main.js": "/infintech-updated/static/js/runtime-main.d5c8789e.js",
@@ -8,7 +8,7 @@
     "static/js/2.92fd8c28.chunk.js": "/infintech-updated/static/js/2.92fd8c28.chunk.js",
     "static/js/2.92fd8c28.chunk.js.map": "/infintech-updated/static/js/2.92fd8c28.chunk.js.map",
     "index.html": "/infintech-updated/index.html",
-    "static/css/main.07a4ee93.chunk.css.map": "/infintech-updated/static/css/main.07a4ee93.chunk.css.map",
+    "static/css/main.d0e63617.chunk.css.map": "/infintech-updated/static/css/main.d0e63617.chunk.css.map",
     "static/js/2.92fd8c28.chunk.js.LICENSE.txt": "/infintech-updated/static/js/2.92fd8c28.chunk.js.LICENSE.txt",
     "static/media/Adrian.844a6a59.png": "/infintech-updated/static/media/Adrian.844a6a59.png",
     "static/media/Agile.7107127b.jpeg": "/infintech-updated/static/media/Agile.7107127b.jpeg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.d5c8789e.js",
     "static/js/2.92fd8c28.chunk.js",
-    "static/css/main.07a4ee93.chunk.css",
+    "static/css/main.d0e63617.chunk.css",
     "static/js/main.f9fd11ba.chunk.js"
   ]
 }
