@@ -4,7 +4,7 @@ import '../App.css';
 import { Button } from './ContactButton';
 import './Articles.css';
 import CardItem from './CardItem';
-import Presentation from './images/Presentation.jpg'
+import Presentation from './images/Presentation_2.jpg'
 import London from './images/London.jpg'
 import FXMarket from './images/FXmarket.jpeg'
 import Ethics from './images/Ethics.jpeg'

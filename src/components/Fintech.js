@@ -4,7 +4,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './Fintech.css';
-import  Presentation from './images/Presentation.jpg'
+import  Presentation from './images/Presentation_2.jpg'
 
 function FintechSection() {
   return (
