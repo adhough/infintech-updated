@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/infintech-updated/static/css/main.0e2e1dab.chunk.css",
-    "main.js": "/infintech-updated/static/js/main.49ba0aa3.chunk.js",
-    "main.js.map": "/infintech-updated/static/js/main.49ba0aa3.chunk.js.map",
+    "main.js": "/infintech-updated/static/js/main.f9fd11ba.chunk.js",
+    "main.js.map": "/infintech-updated/static/js/main.f9fd11ba.chunk.js.map",
     "runtime-main.js": "/infintech-updated/static/js/runtime-main.d5c8789e.js",
     "runtime-main.js.map": "/infintech-updated/static/js/runtime-main.d5c8789e.js.map",
     "static/js/2.92fd8c28.chunk.js": "/infintech-updated/static/js/2.92fd8c28.chunk.js",
@@ -20,13 +20,13 @@
     "static/media/Image2.7b2237d4.jpeg": "/infintech-updated/static/media/Image2.7b2237d4.jpeg",
     "static/media/Libor.d87a758e.jpeg": "/infintech-updated/static/media/Libor.d87a758e.jpeg",
     "static/media/London.199ee285.jpg": "/infintech-updated/static/media/London.199ee285.jpg",
-    "static/media/Presentation.4b7b9ab9.jpg": "/infintech-updated/static/media/Presentation.4b7b9ab9.jpg",
+    "static/media/Presentation_2.60bc83a5.jpg": "/infintech-updated/static/media/Presentation_2.60bc83a5.jpg",
     "static/media/SecModel.2ac93263.jpeg": "/infintech-updated/static/media/SecModel.2ac93263.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5c8789e.js",
     "static/js/2.92fd8c28.chunk.js",
     "static/css/main.0e2e1dab.chunk.css",
-    "static/js/main.49ba0aa3.chunk.js"
+    "static/js/main.f9fd11ba.chunk.js"
   ]
 }
