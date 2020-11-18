@@ -43,13 +43,13 @@ video {
 
   background-color: #fff;
   height: 80%;
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: left;
   object-fit: contain;
-  padding: 16px;
+  padding: 120px;
   margin-left: 0%;
   margin-right: 0%;
 }
