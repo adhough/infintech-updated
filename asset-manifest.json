@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/infintech-updated/static/css/main.c51f2659.chunk.css",
-    "main.js": "/infintech-updated/static/js/main.9a8bc8e5.chunk.js",
-    "main.js.map": "/infintech-updated/static/js/main.9a8bc8e5.chunk.js.map",
+    "main.css": "/infintech-updated/static/css/main.ef20debf.chunk.css",
+    "main.js": "/infintech-updated/static/js/main.49ba0aa3.chunk.js",
+    "main.js.map": "/infintech-updated/static/js/main.49ba0aa3.chunk.js.map",
     "runtime-main.js": "/infintech-updated/static/js/runtime-main.d5c8789e.js",
     "runtime-main.js.map": "/infintech-updated/static/js/runtime-main.d5c8789e.js.map",
     "static/js/2.92fd8c28.chunk.js": "/infintech-updated/static/js/2.92fd8c28.chunk.js",
     "static/js/2.92fd8c28.chunk.js.map": "/infintech-updated/static/js/2.92fd8c28.chunk.js.map",
     "index.html": "/infintech-updated/index.html",
-    "static/css/main.c51f2659.chunk.css.map": "/infintech-updated/static/css/main.c51f2659.chunk.css.map",
+    "static/css/main.ef20debf.chunk.css.map": "/infintech-updated/static/css/main.ef20debf.chunk.css.map",
     "static/js/2.92fd8c28.chunk.js.LICENSE.txt": "/infintech-updated/static/js/2.92fd8c28.chunk.js.LICENSE.txt",
     "static/media/Adrian.844a6a59.png": "/infintech-updated/static/media/Adrian.844a6a59.png",
     "static/media/Agile.7107127b.jpeg": "/infintech-updated/static/media/Agile.7107127b.jpeg",
@@ -16,8 +16,8 @@
     "static/media/FXModel.ab4830fb.jpeg": "/infintech-updated/static/media/FXModel.ab4830fb.jpeg",
     "static/media/FXmarket.91220d1a.jpeg": "/infintech-updated/static/media/FXmarket.91220d1a.jpeg",
     "static/media/EntrySection.css": "/infintech-updated/static/media/Image1.a7e0869f.jpeg",
-    "static/media/Image4.fa6ef7dc.jpeg": "/infintech-updated/static/media/Image4.fa6ef7dc.jpeg",
-    "static/media/Image7.a6aca549.jpeg": "/infintech-updated/static/media/Image7.a6aca549.jpeg",
+    "static/media/Image16.0a129a1e.jpeg": "/infintech-updated/static/media/Image16.0a129a1e.jpeg",
+    "static/media/Image2.7b2237d4.jpeg": "/infintech-updated/static/media/Image2.7b2237d4.jpeg",
     "static/media/Libor.d87a758e.jpeg": "/infintech-updated/static/media/Libor.d87a758e.jpeg",
     "static/media/London.199ee285.jpg": "/infintech-updated/static/media/London.199ee285.jpg",
     "static/media/Presentation.4b7b9ab9.jpg": "/infintech-updated/static/media/Presentation.4b7b9ab9.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.d5c8789e.js",
     "static/js/2.92fd8c28.chunk.js",
-    "static/css/main.c51f2659.chunk.css",
-    "static/js/main.9a8bc8e5.chunk.js"
+    "static/css/main.ef20debf.chunk.css",
+    "static/js/main.49ba0aa3.chunk.js"
   ]
 }
