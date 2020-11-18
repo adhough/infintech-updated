@@ -26,7 +26,7 @@ video {
   margin-top: 0px;
 }
 .fintech-container > img{
-  height: 85%;
+  height: 90%;
   width: 100%;
   border: 2px solid;
   border-color: #fff;
@@ -44,7 +44,7 @@ video {
 .fin-article-container {
 
   background-color: #fff;
-  height: 75%;
+  height: 70%;
   width: 100%;
   display: flex;
   flex-direction: column;
