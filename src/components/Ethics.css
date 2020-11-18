@@ -94,7 +94,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .ethics-container {
-    height: 730vh;
+    height: 700vh;
   }
   .ethics-container > h1 {
     font-size: 50px;
@@ -113,7 +113,7 @@ video {
     margin: auto;
   }
   .ethics-article-container {
-    height: 90%;
+    height: 85%;
   }
   .btn-mobile {
     display: block;

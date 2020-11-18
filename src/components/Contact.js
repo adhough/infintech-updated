@@ -3,7 +3,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './Contact.css';
-import Image7 from './images/Image7.jpeg'
+import Image16 from './images/Image16.jpeg'
 
 function ContactSection() {
   return (

@@ -17,28 +17,28 @@ function ProjectSection() {
   <div className='cards__wrapper'>
     <ul className='cards__items'>
       <CardItem
-        src={Agile}
         text='Agile Project Tracker'
+        src={Agile}
         label='Agile'
         path='/agile'
       />
       <CardItem
-        src={Libor}
         text='Average Libor Estimator'
+        src={Libor}
         label='Libor'
         path='/avglibor'
       />
       </ul>
       <ul className='cards__items'>
       <CardItem
-        src={SecModel}
         text='Securitisation Model'
+        src={SecModel}
         label='Securitisation'
         path='/secmodel'
       />
       <CardItem
-        src={FXModel}
         text='FX Risk Model'
+        src={FXModel}
         label='FX Risk'
         path='/fxrisk'
       />

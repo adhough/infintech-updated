@@ -47,6 +47,8 @@
   justify-self: start;
   align-items: center;
   cursor: pointer;
+  border: 1px solid;
+  border-color: #fff;
 
 }
 .fa-typo3 {

@@ -107,7 +107,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .openbanking-container {
-    height: 450vh;
+    height: 420vh;
   }
   .openbanking-container > h1 {
     font-size: 50px;

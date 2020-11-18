@@ -18,28 +18,28 @@ function ArticleSection() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src={Presentation}
               text='Career Change : From Investment Banking to Fintech'
+              src={Presentation}
               label='Fintech'
               path='/fintech'
             />
             <CardItem
-              src={London}
               text='What is Open Banking?'
+              src={London}
               label='Open Banking'
               path='/openbanking'
             />
             </ul>
             <ul className='cards__items'>
             <CardItem
-              src={FXMarket}
               text='Foreign Exchange: Background and Opportunities'
+              src={FXMarket}
               label='Foreign Exchange'
               path='/fxmarket'
             />
             <CardItem
-              src={Ethics}
               text='Values and Ethics in Fintech'
+              src={Ethics}
               label='Ethics'
               path='/ethics'
             />
