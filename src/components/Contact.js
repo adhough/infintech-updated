@@ -12,7 +12,7 @@ function ContactSection() {
     <br />
       <div className='contact-text-container'>
       <br />
-      <img src={Image7} alt="pine" />
+      <img src={Image16} alt="pine" />
       <br />
       <p>Please send feedback on projects and articles.  Also contact 'in-fintech.com' for project proposals.</p>
 
