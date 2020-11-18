@@ -163,6 +163,8 @@ video {
   .about-adrian-container > img{
     height: 35%;
     width: 55%;
+    border: 2px solid;
+    border-color: #fff;
     display: block;
     justify-content: center;
     align-items: center;

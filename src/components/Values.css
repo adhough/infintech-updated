@@ -51,6 +51,8 @@ video {
 .values-text-container > img{
   height: 40%;
   width: 80%;
+  border: 2px solid;
+  border-color: #fff;
   display: block;
   justify-content: center;
   align-items: center;

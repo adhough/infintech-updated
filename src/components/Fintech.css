@@ -28,6 +28,8 @@ video {
 .fintech-container > img{
   height: 50%;
   width: 80%;
+  border: 2px solid;
+  border-color: #fff;
   display: block;
   justify-content: center;
   align-items: center;

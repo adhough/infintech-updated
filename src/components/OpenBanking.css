@@ -120,6 +120,8 @@ video {
   .openbanking-container > img {
     height: 5%;
     width: 60%;
+    border: 2px solid;
+    border-color: #fff;
     display: block;
     justify-content: center;
     align-items: center;
