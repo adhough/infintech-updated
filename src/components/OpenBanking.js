@@ -3,7 +3,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './OpenBanking.css';
-import London from './images/London.jpg'
+import London from './images/London_2.jpg'
 
 function OpenBankingSection() {
   return (
