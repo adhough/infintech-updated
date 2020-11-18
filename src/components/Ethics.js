@@ -3,7 +3,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './Ethics.css';
-import Ethics from './images/Ethics.jpeg'
+import Ethics from './images/Ethics_copy.jpeg'
 
 function FintechSection() {
   return (

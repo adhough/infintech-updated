@@ -26,7 +26,7 @@ function AboutSection() {
     <p><b>Adrian Hough, BCom, MBA</b></p>
 
     <br />
-    <p>Finance and Technology professional who scopes, designs and delivers change management programmes across a diverse range of asset classes. Successful track record in implementing Risk and Financial Management process improvements, positively impacting businesses with multi-billion risk exposure in a constantly changing regulatory environment.</p>
+    <p>Australian who lives in London with Finance and Technology experience.  Successful track record in implementing Risk and Financial Management process improvements across a wide range of asset classes.</p>
     <br />
     </div>
     </div>
