@@ -27,8 +27,8 @@ video {
 }
 
 .fxmarket-container > img{
-  height: 50%;
-  width: 50%;
+  height: 70%;
+  width: 100%;
   border: 2px solid;
   border-color: #fff;
   display: block;
