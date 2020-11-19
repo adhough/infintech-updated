@@ -9,7 +9,7 @@ video {
 .openbanking-container {
   /* background: url('/images/Image10.jpeg') center center/cover no-repeat; */
   background-color: #394b66;
-  height: 180vh;
+  height: 200vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -27,7 +27,7 @@ video {
   margin-top: 0px;
 }
 .openbanking-container > img{
-  height: 35%;
+  height: 40%;
   width: 100%;
   display: block;
   justify-content: center;
@@ -44,7 +44,7 @@ video {
 .open-article-container {
 
   background-color: #fff;
-  height: 85%;
+  height: 80%;
   width: 100%;
   display: flex;
   flex-direction: column;
