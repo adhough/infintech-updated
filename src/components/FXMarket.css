@@ -9,7 +9,7 @@ video {
 .fxmarket-container {
   /* background: url('/images/Image8.jpeg') center center/cover no-repeat; */
   background-color: #394b66;
-  height: 110%;
+  height: 120%;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -27,7 +27,7 @@ video {
 }
 
 .fxmarket-container > img{
-  height: 50%;
+  height: 60%;
   width: 100%;
   border: 2px solid;
   border-color: #fff;
