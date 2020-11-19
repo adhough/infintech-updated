@@ -32,9 +32,7 @@ video {
   display: block;
   justify-content: center;
   align-items: center;
-  margin: auto;
-  margin-top: 5%;
-  margin-bottom: 5%;
+
 }
 .open-article-container > h3 {
   color: black;
@@ -85,7 +83,7 @@ video {
     display: block;
     justify-content: center;
     align-items: center;
-    
+
   }
   .openbanking-container > h1 {
     font-size: 60px;
