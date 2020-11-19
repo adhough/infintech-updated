@@ -102,6 +102,7 @@ video {
     height: 70%;
     width: 80%;
 }
+}
 
 @media screen and (max-width: 768px) {
   .fintech-container {
