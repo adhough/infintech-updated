@@ -80,9 +80,11 @@ video {
   margin-left: 4px;
 }
 
-@media screen and (max-width: 960px) {
+/* #### Tablets Portrait or Landscape #### */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+
   .fxmarket-container {
-    height: 600vh;
+    height: 300vh;
   }
   .fxmarket-container > img {
     height: 10%;
