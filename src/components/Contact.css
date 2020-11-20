@@ -96,7 +96,7 @@ video {
     height: 200px;
   }
   .contact-text-container > img{
-    height: 90%;
+    height: 100%;
     width: 100%;
 }
 }
@@ -149,7 +149,7 @@ video {
 @media screen and (max-width: 768px) and (orientation : landscape){
 
   .contact-container {
-    height: 2000px;
+    height: 2500px;
   }
   .contact-container > h1 {
     font-size: 50px;

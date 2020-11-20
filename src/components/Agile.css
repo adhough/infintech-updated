@@ -145,7 +145,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .agile-container {
-    height: 800vh;
+    height: 1000vh;
   }
   .agile-container > h1 {
     font-size: 50px;
