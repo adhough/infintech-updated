@@ -152,17 +152,60 @@ h1 {
   line-height: 24px;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .article-container > h1 {
     font-size: 70px;
     margin-top: -150px;
   }
   .article-container {
-    height: 275vh;
+    height: 300vh;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+  .article-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+  .article-container {
+    height: 300vh;
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : portrait){
+  .article-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .article-container > p {
+    font-size: 30px;
+  }
+  .article-container {
+    height: 210vh;
+  }
+  .cards__wrapper {
+    position: relative;
+    margin: 50px 10 10px;
+    width: 500px;
+  }
+  .cards__items {
+    width: 400px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : landscape){
   .article-container > h1 {
     font-size: 50px;
     margin-top: -100px;

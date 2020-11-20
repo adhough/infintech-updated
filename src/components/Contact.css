@@ -86,9 +86,9 @@ video {
   font-size: 40px;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .contact-container {
-    height: 500px;
+    height: 550px;
   }
   .contact-container > h1 {
     font-size: 70px;
@@ -101,7 +101,52 @@ video {
 }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+  .contact-container {
+    height: 550px;
+  }
+  .contact-container > h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    height: 200px;
+  }
+  .contact-text-container > img{
+    height: 40%;
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 768px) and (orientation : portrait){
+
+  .contact-container {
+    height: 980px;
+  }
+  .contact-container > h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+  .contact-container > p {
+    font-size: 30px;
+  }
+  .contact-text-container {
+    width: 70%;
+    height: 93%;
+  }
+  .contact-text-container > img{
+    height: 30%;
+    width: 90%;
+}
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : landscape){
 
   .contact-container {
     height: 980px;

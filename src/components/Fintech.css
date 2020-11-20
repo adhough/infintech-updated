@@ -79,10 +79,10 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .fintech-container {
-    height: 200vh;
+    height: 300vh;
   }
   .fintech-container > img {
     height: 5%;
@@ -99,12 +99,82 @@ video {
   .fin-article-container {
 
     background-color: #fff;
-    height: 70%;
+    height: 80%;
     width: 80%;
 }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+
+  .fintech-container {
+    height: 300vh;
+  }
+  .fintech-container > img {
+    height: 5%;
+    width: 50%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .fintech-container > h1 {
+    font-size: 60px;
+    margin-top: 0px;
+  }
+  .fin-article-container {
+
+    background-color: #fff;
+    height: 80%;
+    width: 80%;
+}
+}
+
+@media screen and (max-width: 768px) and (orientation : portrait){
+  .fintech-container {
+    height: 600vh;
+  }
+  .fintech-container > h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+
+  .fintech-container > p {
+    font-size: 30px;
+  }
+  .fintech-container > img {
+    height: 5%;
+    width: 60%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .fin-article-container {
+
+    background-color: #fff;
+    height: 90%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    object-fit: contain;
+    padding: 16px;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : landscape){
   .fintech-container {
     height: 600vh;
   }

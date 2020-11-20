@@ -80,17 +80,17 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .ethics-container {
-    height: 250vh;
+    height: 300vh;
   }
   .ethics-container > h1 {
     font-size: 70px;
     margin-top: -150px;
   }
   .ethics-container > img{
-    height: 50%;
+    height: 80px0%;
     width: 80%;
     display: block;
     justify-content: center;
@@ -99,7 +99,76 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+
+  .ethics-container {
+    height: 300vh;
+  }
+  .ethics-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+  .ethics-container > img{
+    height: 80px0%;
+    width: 80%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+
+  .ethics-container {
+    height: 300vh;
+  }
+  .ethics-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+  .ethics-container > img{
+    height: 80px0%;
+    width: 80%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : portrait) {
+  .ethics-container {
+    height: 700vh;
+  }
+  .ethics-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .ethics-container > p {
+    font-size: 30px;
+  }
+  .ethics-container > img{
+    height: 5%;
+    width: 60%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .ethics-article-container {
+    height: 85%;
+  }
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) and (orientation : landscape) {
   .ethics-container {
     height: 700vh;
   }

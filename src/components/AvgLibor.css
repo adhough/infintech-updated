@@ -74,13 +74,14 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .avglibor-container > h1 {
     font-size: 70px;
     margin-top: -100px;
   }
   .avglibor-project-container {
     width: 70%;
+    height: 70%;
   }
 
   .avglibor-project-container > img {
@@ -91,7 +92,57 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+  .avglibor-container > h1 {
+    font-size: 70px;
+    margin-top: -100px;
+  }
+  .avglibor-project-container {
+    width: 70%;
+    height: 70%;
+  }
+
+  .avglibor-project-container > img {
+    height: 50%;
+    width: 70%;
+    border: 1px solid black;
+
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : portrait){
+  .avglibor-container {
+    height: 140vh;
+  }
+  .avglibor-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .avglibor-container > p {
+    font-size: 30px;
+  }
+  .avglibor-project-container {
+    width: 85%;
+    height: 60%;
+  }
+  .avglibor-project-container > img {
+    height: 40%;
+    width: 90%;
+    border: 1px solid black;
+
+  }
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) and (orientation : landscape){
   .avglibor-container {
     height: 140vh;
   }
