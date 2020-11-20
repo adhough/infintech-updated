@@ -100,7 +100,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .secmodel-container {
-    height: 200vh;
+    height: 220vh;
   }
 
   .secmodel-container > h1 {
@@ -109,7 +109,7 @@ video {
   }
   .secmodel-project-container {
     width: 60%;
-    height: 90%;
+    height: 70%;
   }
 
   .secmodel-project-container > img {
@@ -154,7 +154,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .secmodel-container {
-    height: 170vh;
+    height: 300vh;
   }
   .secmodel-container > h1 {
     font-size: 50px;

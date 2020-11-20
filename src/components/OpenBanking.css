@@ -82,10 +82,10 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .openbanking-container {
-    height: 300vh;
+    height: 250vh;
   }
   .openbanking-container > img {
-    height: 15%;
+    height: 30%;
     width: 50%;
     display: block;
     justify-content: center;
@@ -99,7 +99,7 @@ video {
   .open-article-container {
 
     background-color: #fff;
-    height: 80%;
+    height: 70%;
     width: 80%;
     display: flex;
     flex-direction: column;
@@ -147,7 +147,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : portrait){
   .openbanking-container {
-    height: 300vh;
+    height: 500vh;
   }
   .openbanking-container > h1 {
     font-size: 50px;
@@ -171,13 +171,13 @@ video {
 
     background-color: #fff;
     height: 90%;
-    width: 100%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: left;
     object-fit: contain;
-    padding: 120px;
+    padding: 16px;
     margin-left: 0%;
     margin-right: 0%;
   }
@@ -194,7 +194,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .openbanking-container {
-    height: 420vh;
+    height: 1000vh;
   }
   .openbanking-container > h1 {
     font-size: 50px;
