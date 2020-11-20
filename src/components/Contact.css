@@ -95,6 +95,10 @@ video {
     margin-top: 0px;
     height: 200px;
   }
+  .contact-text-container {
+
+    height: 70%;
+  }
   .contact-text-container > img{
     height: 100%;
     width: 100%;

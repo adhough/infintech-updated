@@ -83,7 +83,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .ethics-container {
-    height: 90vh;
+    height: 70vh;
   }
   .ethics-container > h1 {
     font-size: 70px;
@@ -115,14 +115,14 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .ethics-container {
-    height: 550vh;
+    height: 520vh;
   }
   .ethics-container > h1 {
     font-size: 70px;
     margin-top: -150px;
   }
   .ethics-container > img{
-    height: 20%;
+    height: 15%;
     width: 80%;
     display: block;
     justify-content: center;
@@ -131,7 +131,7 @@ video {
   }
   .ethics-article-container {
     background-color: #fff;
-    height: 70%;
+    height: 65%;
     width: 80%;
     display: flex;
     flex-direction: column;
