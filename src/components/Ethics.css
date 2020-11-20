@@ -83,7 +83,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .ethics-container {
-    height: 120vh;
+    height: 100vh;
   }
   .ethics-container > h1 {
     font-size: 70px;
@@ -97,19 +97,32 @@ video {
     align-items: center;
     margin: auto;
   }
+  .ethics-article-container {
+    background-color: #fff;
+    height: 60%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    object-fit: contain;
+    padding: 16px;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
 }
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .ethics-container {
-    height: 600vh;
+    height: 550vh;
   }
   .ethics-container > h1 {
     font-size: 70px;
     margin-top: -150px;
   }
   .ethics-container > img{
-    height: 30%;
+    height: 20%;
     width: 80%;
     display: block;
     justify-content: center;
@@ -118,7 +131,7 @@ video {
   }
   .ethics-article-container {
     background-color: #fff;
-    height: 80%;
+    height: 70%;
     width: 80%;
     display: flex;
     flex-direction: column;
@@ -134,7 +147,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : portrait) {
   .ethics-container {
-    height: 700vh;
+    height: 650vh;
   }
   .ethics-container > h1 {
     font-size: 50px;

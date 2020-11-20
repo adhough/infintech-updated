@@ -129,8 +129,8 @@ video {
     margin-right: 0%;
   }
   .values-text-container > img{
-    height: 25%;
-    width: 90%;
+    height: 15%;
+    width: 100%;
     display: block;
     justify-content: center;
     align-items: center;
@@ -148,7 +148,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape) {
   .values-container > {
-    height: 500vh;
+    height: 700vh;
   }
   .values-container > h1 {
     font-size: 50px;

@@ -88,7 +88,7 @@ video {
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .contact-container {
-    height: 900px;
+    height: 950px;
   }
   .contact-container > h1 {
     font-size: 70px;
@@ -96,14 +96,14 @@ video {
     height: 200px;
   }
   .contact-text-container > img{
-    height: 80%;
+    height: 90%;
     width: 100%;
 }
 }
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .contact-container {
-    height: 1000px;
+    height: 1100px;
   }
   .contact-container > h1 {
     font-size: 70px;
@@ -119,7 +119,7 @@ video {
 @media screen and (max-width: 768px) and (orientation : portrait){
 
   .contact-container {
-    height: 1050px;
+    height: 1100px;
   }
   .contact-container > h1 {
     font-size: 50px;
@@ -149,7 +149,7 @@ video {
 @media screen and (max-width: 768px) and (orientation : landscape){
 
   .contact-container {
-    height: 1500px;
+    height: 2000px;
   }
   .contact-container > h1 {
     font-size: 50px;

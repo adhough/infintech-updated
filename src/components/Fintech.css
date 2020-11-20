@@ -82,7 +82,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .fintech-container {
-    height: 120vh;
+    height: 100vh;
   }
   .fintech-container > img {
     height: 5%;
@@ -99,7 +99,7 @@ video {
   .fin-article-container {
 
     background-color: #fff;
-    height: 70%;
+    height: 60%;
     width: 80%;
 }
 }
