@@ -177,7 +177,7 @@ video {
   }
 
   .about-text-container {
-    height: 75%;
+    height: 80%;
     width: 70%;
     margin-left: 0%;
     margin-right: 0%;
@@ -188,8 +188,8 @@ video {
     margin-right: 0%;
   }
   .about-adrian-container > img{
-    height: 35%;
-    width: 55%;
+    height: 50%;
+    width: 60%;
     border: 2px solid;
     border-color: #fff;
     display: block;
@@ -210,7 +210,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .about-container {
-    height: 300vh;
+    height: 500vh;
   }
   .about-container > h1 {
     font-size: 50px;
