@@ -147,7 +147,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .avglibor-container {
-    height: 1500vh;
+    height: 3000vh;
   }
   .avglibor-container > h1 {
     font-size: 50px;
