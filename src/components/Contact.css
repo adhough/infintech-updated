@@ -153,7 +153,7 @@ video {
 @media screen and (max-width: 768px) and (orientation : landscape){
 
   .contact-container {
-    height: 3000vh;
+    height: 8000vh;
   }
   .contact-container > h1 {
     font-size: 50px;
