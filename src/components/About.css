@@ -123,6 +123,10 @@ video {
     margin-left: 5%;
     margin-right: 5%;
   }
+  .about-adrian-container {
+    padding-left: 20%;
+    padding-right: 20%;
+  }
   .about-adrian-container > img{
     height: 50%;
     width: 20%;
@@ -131,8 +135,7 @@ video {
     align-items: center;
     margin-left: 30%;
     margin-right: 30%;
-    padding-left: 20%;
-    padding-right: 20%;
+
   }
 }
 
@@ -160,7 +163,7 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (orientation : portrait){
+@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : portrait){
   .about-container {
     height: 120vh;
   }
@@ -211,9 +214,9 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (orientation : landscape){
+@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : landscape){
   .about-container {
-    height: 10000vh;
+    height: 20000vh;
   }
   .about-container > h1 {
     font-size: 50px;

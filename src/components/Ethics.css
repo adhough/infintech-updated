@@ -145,7 +145,7 @@ video {
 }
 
 
-@media screen and (max-width: 768px) and (orientation : portrait) {
+@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : portrait) {
   .ethics-container {
     height: 650vh;
   }
@@ -187,9 +187,9 @@ video {
     width: 100%;
   }
 }
-@media screen and (max-width: 768px) and (orientation : landscape) {
+@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : landscape) {
   .ethics-container {
-    height: 20000vh;
+    height: 40000vh;
   }
   .ethics-container > h1 {
     font-size: 50px;
