@@ -124,8 +124,8 @@ video {
     margin-right: 5%;
   }
   .about-adrian-container > img{
-    height: 60%;
-    width: 30%;
+    height: 50%;
+    width: 20%;
     display: block;
     justify-content: center;
     align-items: center;
@@ -135,7 +135,7 @@ video {
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
-    height: 200vh;
+    height: 400vh;
   }
   .about-container > h1 {
     font-size: 70px;

@@ -154,7 +154,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .secmodel-container {
-    height: 1000vh;
+    height: 1500vh;
   }
   .secmodel-container > h1 {
     font-size: 50px;
