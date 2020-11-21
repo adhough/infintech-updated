@@ -131,6 +131,8 @@ video {
     align-items: center;
     margin-left: 30%;
     margin-right: 30%;
+    padding-left: 20%;
+    padding-right: 20%;
   }
 }
 
@@ -211,7 +213,7 @@ video {
 
 @media screen and (max-width: 768px) and (orientation : landscape){
   .about-container {
-    height: 3000vh;
+    height: 10000vh;
   }
   .about-container > h1 {
     font-size: 50px;
