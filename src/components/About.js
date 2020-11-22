@@ -26,7 +26,7 @@ function AboutSection() {
     <p><b>Adrian Hough, BCom, MBA</b></p>
 
     <br />
-    <p>Australian who lives in London with Finance and Technology experience.  Successful track record in implementing Risk and Financial Management process improvements across a wide range of asset classes.</p>
+    <p>Australian who lives in London with Finance and Technology experience.  Successful track record in implementing Risk and Financial Management process improvements across a wide range of asset classes including Fixed Income, Derivatives, Structured Products and Commodities.</p>
     <br />
     </div>
     </div>
