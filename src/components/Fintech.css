@@ -129,7 +129,7 @@ video {
 }
 }
 
-@media screen and (max-width: 768px) and (orientation : portrait){
+@media screen and (max-width: 896px) and (orientation : portrait){
   .fintech-container {
     height: 600vh;
   }
@@ -174,9 +174,9 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (orientation : landscape){
+@media screen and (max-width: 896px) and (orientation : landscape){
   .fintech-container {
-    height: 40000vh;
+    height: 600vh;
   }
   .fintech-container > h1 {
     font-size: 50px;

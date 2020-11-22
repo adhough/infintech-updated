@@ -120,7 +120,7 @@ video {
 }
 }
 
-@media screen and (max-width: 768px) and (orientation : portrait){
+@media screen and (max-width: 896px) and (orientation : portrait){
 
   .contact-container {
     height: 1100px;
@@ -150,10 +150,10 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (orientation : landscape){
+@media screen and (max-width: 896px) and (orientation : landscape){
 
   .contact-container {
-    height: 30000vh;
+    height: 300vh;
   }
   .contact-container > h1 {
     font-size: 50px;

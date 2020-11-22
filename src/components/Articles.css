@@ -172,7 +172,7 @@ h1 {
   }
 }
 
-@media screen and (max-width: 768px) and (orientation : portrait){
+@media screen and (max-width: 896px) and (orientation : portrait){
   .article-container > h1 {
     font-size: 50px;
     margin-top: -100px;
@@ -205,7 +205,7 @@ h1 {
   }
 }
 
-@media screen and (max-width: 768px) and (orientation : landscape){
+@media screen and (max-width: 896px) and (orientation : landscape){
   .article-container > h1 {
     font-size: 50px;
     margin-top: -100px;
@@ -215,7 +215,7 @@ h1 {
     font-size: 15px;
   }
   .article-container {
-    height: 20000vh;
+    height: 300vh;
   }
   .cards__wrapper {
     position: relative;
