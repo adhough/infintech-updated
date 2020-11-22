@@ -84,7 +84,7 @@ video {
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .fxmarket-container {
-    height: 60vh;
+    height: 50vh;
   }
   .fxmarket-container > img {
     height: 10%;

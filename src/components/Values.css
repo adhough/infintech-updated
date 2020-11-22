@@ -97,11 +97,11 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 220vh;
+    height: 240vh;
   }
   .values-text-container {
     height: 80%;
-    width: 80%;
+    width: 90%;
     margin-left: 5%;
     margin-right: 5%;
   }
@@ -148,20 +148,20 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : landscape){
   .values-container > {
-    height: 1200vh;
+    height: 1400vh;
   }
   .values-container > h1 {
     font-size: 50px;
     margin-top: 0px;
   }
 
-  .values-container > p {
+  .values-container > h3 {
     height: 200vh;
-    font-size: 15px;
+    font-size: 20px;
   }
   .values-text-container {
     height: 80%;
-    width: 70%;
+    width: 80%;
     margin-left: 0%;
     margin-right: 0%;
   }
