@@ -70,7 +70,7 @@ video {
   margin-left: 4px;
 }
 
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 70px;
     margin-top: 0px;
@@ -91,7 +91,7 @@ video {
     margin-right: 5%;
   }
 }
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 70px;
     margin-top: 0px;
@@ -148,7 +148,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : landscape){
   .values-container > {
-    height: 800vh;
+    height: 1000vh;
   }
   .values-container > h1 {
     font-size: 50px;

@@ -131,7 +131,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : portrait){
   .fintech-container {
-    height: 750vh;
+    height: 650vh;
   }
   .fintech-container > h1 {
     font-size: 50px;
