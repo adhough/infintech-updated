@@ -189,7 +189,7 @@ video {
 }
 @media screen and (max-width: 896px) and (orientation : landscape){
   .ethics-container {
-    height: 800vh;
+    height: 1000vh;
   }
   .ethics-container > h1 {
     font-size: 50px;
