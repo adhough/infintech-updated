@@ -82,7 +82,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .openbanking-container {
-    height: 60vh;
+    height: 50vh;
   }
   .openbanking-container > img {
     height: 30%;
@@ -115,7 +115,7 @@ video {
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .openbanking-container {
-    height: 400vh;
+    height: 800vh;
   }
   .openbanking-container > img {
     height: 15%;
