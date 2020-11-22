@@ -112,7 +112,7 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : portrait){
+@media screen and (max-width: 768px) and (orientation : portrait){
   .agile-container {
     height: 150vh;
   }
@@ -143,7 +143,7 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : landscape){
+@media screen and (max-width: 768px) and (orientation : landscape){
   .agile-container {
     height: 15000vh;
   }

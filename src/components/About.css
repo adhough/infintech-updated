@@ -163,7 +163,7 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : portrait){
+@media screen and (max-width: 768px) and (orientation : portrait){
   .about-container {
     height: 120vh;
   }
@@ -214,7 +214,7 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) and (orientation : landscape){
+@media screen and (max-width: 896px) and (orientation : landscape){
   .about-container {
     height: 30000vh;
   }
