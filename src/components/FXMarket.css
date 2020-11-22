@@ -149,7 +149,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : portrait){
   .fxmarket-container {
-    height: 1000vh;
+    height: 900vh;
   }
   .fxmarket-container > h1 {
     font-size: 50px;
@@ -194,7 +194,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : landscape){
   .fxmarket-container {
-    height: 1000vh;
+    height: 1200vh;
   }
   .fxmarket-container > h1 {
     font-size: 50px;
