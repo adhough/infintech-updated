@@ -81,10 +81,10 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .fxmarket-container {
-    height: 80vh;
+    height: 70vh;
   }
   .fxmarket-container > img {
     height: 10%;
@@ -149,7 +149,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : portrait){
   .fxmarket-container {
-    height: 800vh;
+    height: 900vh;
   }
   .fxmarket-container > h1 {
     font-size: 50px;
@@ -194,7 +194,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : landscape){
   .fxmarket-container {
-    height: 700vh;
+    height: 800vh;
   }
   .fxmarket-container > h1 {
     font-size: 50px;

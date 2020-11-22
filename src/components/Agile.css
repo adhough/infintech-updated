@@ -73,7 +73,7 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
   .agile-container > h1 {
     font-size: 70px;
     margin-top: -100px;
@@ -91,13 +91,13 @@ video {
   }
 }
 
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
   .agile-container > h1 {
     font-size: 70px;
     margin-top: -100px;
   }
   .agile-container > {
-    height: 400vh;
+    height: 380vh;
   }
   .agile-project-container {
     width: 60%;

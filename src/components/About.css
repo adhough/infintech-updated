@@ -139,9 +139,9 @@ video {
   }
 }
 
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
-    height: 300vh;
+    height: 280vh;
   }
   .about-container > h1 {
     font-size: 70px;
@@ -245,7 +245,7 @@ video {
     margin-right: 0%;
   }
   .about-adrian-container > img{
-    height: 35%;
+    height: 40%;
     width: 55%;
     border: 2px solid;
     border-color: #fff;
