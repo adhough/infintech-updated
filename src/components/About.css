@@ -141,7 +141,7 @@ video {
 
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
-    height: 1500vh;
+    height: 2000vh;
   }
   .about-container > h1 {
     font-size: 70px;
@@ -152,6 +152,10 @@ video {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+  }
+
+  .about-adrian-container {
+    width: 80%;
   }
   .about-adrian-container > img{
     height: 65%;

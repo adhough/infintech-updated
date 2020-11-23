@@ -97,7 +97,7 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 1000vh;
+    height: 1500vh;
   }
   .values-text-container {
     height: 80%;
@@ -148,7 +148,7 @@ video {
 
 @media screen and (max-width: 896px) and (orientation : landscape){
   .values-container > {
-    height: 2500vh;
+    height: 3000vh;
   }
   .values-container > h1 {
     font-size: 50px;
