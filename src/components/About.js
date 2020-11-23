@@ -15,7 +15,7 @@ function AboutSection() {
 
 
     <div className='about-text-container'>
-    <p><b>in-fintech.com</b> is passionate about Finance, Economics, Technology and Entrepreneurship.  A range of fintech-related articles and projects are featured, focusing on topics such as Open Banking, Structured Products and Ethics.</p>
+    <p><b>in-fintech.com</b> is passionate about Finance, Economics, Technology and Entrepreneurship.  A range of fintech-related articles and projects are featured, focusing on topics such as Open Banking, the FX Market and Ethics.</p>
 
     <br />
     <div className='about-adrian-container'>
