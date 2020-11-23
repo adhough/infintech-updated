@@ -119,7 +119,7 @@ video {
   }
   .about-text-container {
     height: 80%;
-    width: 80%;
+    width: 90%;
     margin-left: 5%;
     margin-right: 5%;
   }
@@ -141,7 +141,7 @@ video {
 
 @media screen and (min-device-width: 550px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
-    height: 2000vh;
+    height: 800vh;
   }
   .about-container > h1 {
     font-size: 70px;
