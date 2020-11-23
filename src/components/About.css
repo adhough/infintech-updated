@@ -164,6 +164,7 @@ video {
   .about-container > p {
     font-size: 15px;
 }
+}
 
 @media screen and (max-width: 896px) and (orientation : portrait){
   .about-container {
