@@ -109,7 +109,7 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 550px) and (max-device-width: 1024px) and (orientation : portrait) {
   .about-container {
     height: 200vh;
   }
@@ -139,7 +139,7 @@ video {
   }
 }
 
-@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (min-device-width: 550px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
     height: 2000vh;
   }
@@ -170,7 +170,7 @@ video {
 }
 }
 
-@media screen and (max-width: 896px) and (orientation : portrait){
+@media screen and (max-width: 549px) and (orientation : portrait){
   .about-container {
     height: 120vh;
   }
@@ -221,7 +221,7 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : landscape){
+@media screen and (max-width: 549px) and (orientation : landscape){
   .about-container {
     height: 300vh;
   }
