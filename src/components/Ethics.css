@@ -83,7 +83,7 @@ video {
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .ethics-container {
-    height: 70vh;
+    height: 65vh;
   }
   .ethics-container > h1 {
     font-size: 60px;
@@ -115,7 +115,7 @@ video {
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .ethics-container {
-    height: 1000vh;
+    height: 1200vh;
   }
   .ethics-container > h1 {
     font-size: 70px;

@@ -15,7 +15,7 @@ function AboutSection() {
 
 
     <div className='about-text-container'>
-    <p><b>in-fintech.com</b> is passionate about Finance, Economics, Technology and Entrepreneurship.  A range of fintech-related articles and projects are featured and focus on a range of topics, including Open Banking, Structured Products and Ethics.</p>
+    <p><b>in-fintech.com</b> is passionate about Finance, Economics, Technology and Entrepreneurship.  A range of fintech-related articles and projects are featured, focusing on a range of topics including Open Banking, Structured Products and Ethics.</p>
 
     <br />
     <div className='about-adrian-container'>
@@ -26,7 +26,7 @@ function AboutSection() {
     <p><b>Adrian Hough, BCom, MBA</b></p>
 
     <br />
-    <p>Australian who lives in London with Finance and Technology experience.  Successful track record in implementing Risk and Financial Management process improvements across a wide range of asset classes such as Fixed Income, Derivatives, Structured Products and Commodities.</p>
+    <p>Australian who lives in London with Finance and Technology experience.  Successful track record in implementing Risk and Financial Management projects for asset classes such as Fixed Income, Derivatives, Structured Products and Commodities.</p>
     <br />
     </div>
     </div>

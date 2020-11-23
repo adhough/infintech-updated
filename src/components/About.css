@@ -141,7 +141,7 @@ video {
 
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
-    height: 800vh;
+    height: 1000vh;
   }
   .about-container > h1 {
     font-size: 70px;
@@ -161,6 +161,8 @@ video {
     align-items: center;
     margin: auto;
   }
+  .about-container > p {
+    font-size: 15px;
 }
 
 @media screen and (max-width: 896px) and (orientation : portrait){
