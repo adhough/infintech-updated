@@ -79,7 +79,7 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .openbanking-container {
     height: 45vh;

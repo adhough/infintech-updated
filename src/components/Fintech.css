@@ -107,7 +107,7 @@ video {
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .fintech-container {
-    height: 1200vh;
+    height: 1400vh;
   }
   .fintech-container > img {
     height: 10%;
