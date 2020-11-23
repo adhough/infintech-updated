@@ -115,7 +115,7 @@ video {
 @media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .openbanking-container {
-    height: 2500vh;
+    height: 1000vh;
   }
   .openbanking-container > img {
     height: 15%;
@@ -145,7 +145,7 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : portrait){
+@media screen and (min-device-width: 601px) and (max-width: 896px) and (orientation : portrait){
   .openbanking-container {
     height: 530vh;
   }
@@ -192,7 +192,101 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : landscape){
+@media screen and (min-device-width: 601px) and (max-width: 896px) and (orientation : landscape){
+  .openbanking-container {
+    height: 570vh;
+  }
+  .openbanking-container > h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+
+  .openbanking-container > p {
+    font-size: 15px;
+  }
+  .openbanking-container > img {
+    height: 10%;
+    width: 60%;
+    border: 2px solid;
+    border-color: #fff;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .open-article-container {
+
+    background-color: #fff;
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    object-fit: contain;
+    padding: 120px;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) and (orientation : portrait){
+  .openbanking-container {
+    height: 530vh;
+  }
+  .openbanking-container > h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+
+  .openbanking-container > p {
+    font-size: 30px;
+  }
+  .openbanking-container > img {
+    height: 5%;
+    width: 60%;
+    border: 2px solid;
+    border-color: #fff;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .open-article-container {
+
+    background-color: #fff;
+    height: 85%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    object-fit: contain;
+    padding: 16px;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) and (orientation : landscape){
   .openbanking-container {
     height: 570vh;
   }
