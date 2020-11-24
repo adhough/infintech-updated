@@ -227,7 +227,7 @@ video {
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .about-container {
-    height: 1000vh;
+    height: 200vh;
   }
   .about-container > h1 {
     font-size: 50px;
@@ -303,7 +303,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .about-container {
-    height: 1000vh;
+    height: 200vh;
   }
   .about-container > h1 {
     font-size: 50px;
