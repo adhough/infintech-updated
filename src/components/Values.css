@@ -75,7 +75,7 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 150vh;
+    height: 100vh;
   }
   .values-text-container {
     height: 90%;
@@ -99,7 +99,7 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 120vh;
+    height: 150vh;
   }
   .values-text-container {
     height: 90%;
@@ -123,7 +123,7 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 800vh;
+    height: 700vh;
   }
   .values-text-container {
     height: 80%;
@@ -141,7 +141,7 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 800vh;
+    height: 600vh;
   }
   .values-text-container {
     height: 80%;
@@ -195,7 +195,7 @@ video {
 
 @media screen and (max-device-width: 425px) and (orientation : landscape){
   .values-container > {
-    height: 600vh;
+    height: 300vh;
   }
   .values-container > h1 {
     font-size: 50px;
