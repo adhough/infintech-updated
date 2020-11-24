@@ -79,7 +79,7 @@ video {
 }
 
 /* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .fintech-container {
     height: 35vh;
@@ -104,7 +104,7 @@ video {
 }
 }
 
-@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .fintech-container {
     height: 1000vh;
@@ -137,7 +137,7 @@ video {
 }
 }
 
-@media screen and (min-device-width: 601px) and (max-width: 896px) and (orientation : portrait){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait){
   .fintech-container {
     height: 600vh;
   }
@@ -182,7 +182,7 @@ video {
   }
 }
 
-@media screen and (min-device-width: 601px) and (max-width: 896px) and (orientation : landscape){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape){
   .fintech-container {
     height: 800vh;
   }
@@ -228,7 +228,7 @@ video {
 }
 
 
-@media screen and (max-width: 600px) and (orientation : portrait){
+@media screen and (max-device-width: 425px) and (orientation : portrait){
   .fintech-container {
     height: 650vh;
   }
@@ -273,7 +273,7 @@ video {
   }
 }
 
-@media screen and (max-width: 600px) and (orientation : landscape){
+@media screen and (max-device-width: 425px) and (orientation : landscape){
   .fintech-container {
     height: 800vh;
   }

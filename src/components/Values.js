@@ -17,7 +17,7 @@ function ValuesSection() {
     <br />
     <h3>Innovation</h3><p>Passion for developing solutions which can improve businesses and lives.  </p>
     <br />
-    <h3>Simplicity</h3><p>Search for simple solutions to help the user understanding and to reduce risk.  </p>
+    <h3>Simplicity</h3><p>Search for simple solutions to help improve user understanding and to reduce risk.  </p>
     <br />
     <h3>Ethics</h3><p>Approach business with high ethical principles and actively engage in discussions about Ethics within the Fintech community.  </p>
     <br />

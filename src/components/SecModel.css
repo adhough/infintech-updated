@@ -120,7 +120,53 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : portrait){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
+
+  .secmodel-container {
+    height: 150vh;
+  }
+
+  .secmodel-container > h1 {
+    font-size: 50px;
+    margin-top: -150px;
+  }
+  .secmodel-project-container {
+    width: 60%;
+    height: 70%;
+  }
+
+  .secmodel-project-container > img {
+    height: 40%;
+    width: 80%;
+    border: 1px solid black;
+
+  }
+}
+
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
+
+  .secmodel-container {
+    height: 220vh;
+  }
+
+  .secmodel-container > h1 {
+    font-size: 50px;
+    margin-top: -150px;
+  }
+  .secmodel-project-container {
+    width: 60%;
+    height: 70%;
+  }
+
+  .secmodel-project-container > img {
+    height: 40%;
+    width: 80%;
+    border: 1px solid black;
+
+  }
+}
+
+@media screen and (max-width: 425px) and (orientation : portrait){
   .secmodel-container {
     height: 170vh;
   }
@@ -152,7 +198,7 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : landscape){
+@media screen and (max-width: 425px) and (orientation : landscape){
   .secmodel-container {
     height: 300vh;
   }

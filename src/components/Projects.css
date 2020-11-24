@@ -179,7 +179,27 @@ h1 {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : portrait){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
+  .project-container > h1 {
+    font-size: 70px;
+    margin-top: 60px;
+  }
+  .project-container {
+    height: 260vh;
+  }
+}
+
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
+  .project-container > h1 {
+    font-size: 70px;
+    margin-top: 60px;
+  }
+  .project-container {
+    height: 170vh;
+  }
+}
+
+@media screen and (max-width: 425px) and (orientation : portrait){
   .project-container > h1 {
     font-size: 50px;
     margin-top: 50px;
@@ -211,7 +231,7 @@ h1 {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : landscape){
+@media screen and (max-width: 425px) and (orientation : landscape){
   .project-container > h1 {
     font-size: 50px;
     margin-top: 50px;

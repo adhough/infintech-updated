@@ -87,7 +87,7 @@ video {
   font-size: 40px;
 }
 
-@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .contact-container {
     height: 1100px;
   }
@@ -106,7 +106,7 @@ video {
 }
 }
 
-@media screen and (min-device-width: 897px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .contact-container {
     height: 1000vh;
   }
@@ -121,7 +121,41 @@ video {
 }
 }
 
-@media screen and (max-width: 896px) and (orientation : portrait){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
+  .contact-container {
+    height: 1100px;
+  }
+  .contact-container > h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    height: 220px;
+  }
+  .contact-text-container {
+
+    height: 80%;
+  }
+  .contact-text-container > img{
+    height: 100%;
+    width: 100%;
+}
+}
+
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
+  .contact-container {
+    height: 1000vh;
+  }
+  .contact-container > h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    height: 200px;
+  }
+  .contact-text-container > img{
+    height: 50%;
+    width: 100%;
+}
+}
+
+@media screen and (max-device-width: 425px) and (orientation : portrait){
 
   .contact-container {
     height: 1100px;
@@ -151,7 +185,7 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : landscape){
+@media screen and (max-device-width: 425px) and (orientation : landscape){
 
   .contact-container {
     height: 300vh;

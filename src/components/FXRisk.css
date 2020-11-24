@@ -120,7 +120,54 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : portrait){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
+
+  .fxrisk-container {
+    height: 150vh;
+  }
+
+  .fxrisk-container > h1 {
+    font-size: 50px;
+    margin-top: -150px;
+  }
+  .fxrisk-project-container {
+    width: 60%;
+    height: 70%;
+  }
+
+  .fxrisk-project-container > img {
+    height: 40%;
+    width: 80%;
+    border: 1px solid black;
+
+  }
+}
+
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
+
+  .fxrisk-container {
+    height: 200vh;
+  }
+
+  .fxrisk-container > h1 {
+    font-size: 50px;
+    margin-top: -150px;
+  }
+  .fxrisk-project-container {
+    width: 60%;
+    height: 70%;
+  }
+
+  .fxrisk-project-container > img {
+    height: 40%;
+    width: 80%;
+    border: 1px solid black;
+
+  }
+}
+
+
+@media screen and (max-width: 425px) and (orientation : portrait){
   .fxrisk-container{
     height: 140vh;
   }
@@ -152,7 +199,7 @@ video {
   }
 }
 
-@media screen and (max-width: 896px) and (orientation : landscape){
+@media screen and (max-width: 425px) and (orientation : landscape){
   .fxrisk-container{
     height: 300vh;
   }
