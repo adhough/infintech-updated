@@ -303,7 +303,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .about-container {
-    height: 200vh;
+    height: 180vh;
   }
   .about-container > h1 {
     font-size: 50px;

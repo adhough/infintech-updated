@@ -145,7 +145,7 @@ video {
   }
 }
 
-@media screen and (min-device-width: 426px) and (max-width: 767px) and (orientation : portrait){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait){
   .openbanking-container {
     height: 530vh;
   }
@@ -192,7 +192,7 @@ video {
   }
 }
 
-@media screen and (min-device-width: 426px) and (max-width: 767px) and (orientation : landscape){
+@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape){
   .openbanking-container {
     height: 570vh;
   }
@@ -239,7 +239,7 @@ video {
   }
 }
 
-@media screen and (max-width: 425px) and (orientation : portrait){
+@media screen and (max-device-width: 425px) and (orientation : portrait){
   .openbanking-container {
     height: 530vh;
   }
@@ -286,7 +286,7 @@ video {
   }
 }
 
-@media screen and (max-width: 425px) and (orientation : landscape){
+@media screen and (max-device-width: 425px) and (orientation : landscape){
   .openbanking-container {
     height: 570vh;
   }
