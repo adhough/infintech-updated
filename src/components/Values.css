@@ -90,6 +90,9 @@ video {
     margin-left: 5%;
     margin-right: 5%;
   }
+  .values-text-container > p {
+    font-size: 15px;
+}
 }
 @media screen and (min-device-width: 550px) and (max-device-width: 1024px) and (orientation : landscape) {
   .values-container > h1 {
@@ -105,6 +108,9 @@ video {
     margin-left: 5%;
     margin-right: 5%;
   }
+  .values-text-container > p {
+    font-size: 15px;
+}
 }
 
 @media screen and (max-width: 549px) and (orientation : portrait) {
@@ -120,7 +126,7 @@ video {
 
   .values-container > p {
     height: 200vh;
-    font-size: 30px;
+    font-size: 15px;
   }
   .values-text-container {
     height: 70%;
@@ -173,6 +179,9 @@ video {
     align-items: center;
     margin: auto;
   }
+  .values-text-container > p {
+    font-size: 15px;
+}
   .btn-mobile {
     display: block;
     text-decoration: none;
