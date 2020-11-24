@@ -162,7 +162,6 @@ video {
   }
 
   .values-container > h3 {
-    height: 200vh;
     font-size: 10px;
   }
   .values-text-container {
@@ -172,7 +171,7 @@ video {
     margin-right: 0%;
   }
   .values-text-container > img{
-    height: 20%;
+    height: 40%;
     width: 80%;
     display: block;
     justify-content: center;

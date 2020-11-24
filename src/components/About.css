@@ -184,7 +184,6 @@ video {
     font-size: 15px;
   }
 }
-}
 
 @media screen and (max-width: 549px) and (orientation : portrait){
   .about-container {
@@ -258,18 +257,19 @@ video {
 
   .about-text-container {
     height: 75%;
-    width: 70%;
+    width: 90%;
     margin-left: 0%;
     margin-right: 0%;
   }
   .about-adrian-container {
     height: 90%;
+    width: 90%;
     margin-left: 0%;
     margin-right: 0%;
   }
   .about-adrian-container > img{
-    height: 40%;
-    width: 55%;
+    height: 50%;
+    width: 70%;
     border: 2px solid;
     border-color: #fff;
     display: block;
