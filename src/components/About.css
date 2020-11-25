@@ -167,7 +167,7 @@ video {
   }
 
   .about-adrian-container {
-    width: 80%;
+    width: 100%;
   }
   .about-adrian-container > img{
     height: 65%;
@@ -243,7 +243,7 @@ video {
   }
 
   .about-adrian-container {
-    width: 80%;
+    width: 100%;
   }
   .about-adrian-container > img{
     height: 40%;
@@ -342,7 +342,7 @@ video {
   }
   .about-adrian-container {
     height: 90%;
-    width: 90%;
+    width: 100%;
     margin-left: 0%;
     margin-right: 0%;
   }
