@@ -108,7 +108,7 @@ video {
     margin-top: -100px;
   }
   .fxrisk-project-container {
-    width: 80%;
+    width: 90%;
     height: 80%;
   }
 
@@ -151,10 +151,10 @@ video {
 
   .fxrisk-container > h1 {
     font-size: 30px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
   .fxrisk-project-container {
-    width: 80%;
+    width: 90%;
     height: 80%;
   }
 
@@ -169,7 +169,7 @@ video {
 
 @media screen and (max-width: 425px) and (orientation : portrait){
   .fxrisk-container{
-    height: 140vh;
+    height: 180vh;
   }
   .fxrisk-container > h1 {
     font-size: 30px;
@@ -177,7 +177,7 @@ video {
   }
 
   .fxrisk-container > p {
-    font-size: 30px;
+    font-size: 15px;
   }
   .fxrisk-project-container {
     width: 85%;
@@ -201,7 +201,7 @@ video {
 
 @media screen and (max-width: 425px) and (orientation : landscape){
   .fxrisk-container{
-    height: 400vh;
+    height: 600vh;
   }
   .fxrisk-container > h1 {
     font-size: 30px;

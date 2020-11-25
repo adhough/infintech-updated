@@ -17,7 +17,7 @@ function FXRiskSection() {
 <br />
 <img src={FXModel} alt="fx"/>
 <br />
-<p>This model calculates the one day Value at Risk (VaR) for a portfolio of assets held in a range of currencies.  This website was developed using Python, Flask, Numpy, Pandas and deployed using Heroku.
+<p>This model calculates the one day Value at Risk (VaR) for a range of currencies.  This website was developed using Python, Flask, Numpy, Pandas and deployed using Heroku.
 </p>
 <br />
 <a href="https://fxriskmodel.herokuapp.com/" target="_blank" rel="noreferrer">https://fxriskmodel.herokuapp.com/</a>
