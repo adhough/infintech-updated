@@ -108,7 +108,7 @@ video {
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .contact-container {
-    height: 100vh;
+    height: 120vh;
   }
   .contact-container > h1 {
     font-size: 70px;
@@ -142,7 +142,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .contact-container {
-    height: 100vh;
+    height: 120vh;
   }
   .contact-container > h1 {
     font-size: 70px;
