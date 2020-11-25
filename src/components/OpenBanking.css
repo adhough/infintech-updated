@@ -82,7 +82,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
 
   .openbanking-container {
-    height: 500vh;
+    height: 400vh;
   }
   .openbanking-container > img {
     height: 30%;
@@ -115,7 +115,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
 
   .openbanking-container {
-    height: 400vh;
+    height: 300vh;
   }
   .openbanking-container > img {
     height: 10%;
@@ -147,7 +147,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait){
   .openbanking-container {
-    height: 530vh;
+    height: 400vh;
   }
   .openbanking-container > h1 {
     font-size: 50px;

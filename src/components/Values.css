@@ -111,12 +111,12 @@ video {
   }
   .values-text-container {
     height: 90%;
-    width: 70%;
+    width: 80%;
     margin-left: 5%;
     margin-right: 5%;
   }
   .values-text-container > img {
-    height: 40%;
+    height: 30%;
     width: 80%;
     margin-left: 5%;
     margin-right: 5%;
@@ -127,7 +127,7 @@ video {
 }
 @media screen and (max-device-height: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .values-container > h1 {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-container {
@@ -140,16 +140,21 @@ video {
     margin-right: 5%;
   }
   .values-text-container > p {
-    font-size: 20px;
+    font-size: 15px;
 }
 .values-text-container > h3 {
-  font-size: 30px;
-
+  font-size: 20px;
+}
+.values-text-container > img {
+  height: 30%;
+  width: 80%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 }
 @media screen and (max-device-width: 426px) and (max-device-height: 767px) and (orientation : portrait) {
   .values-container > h1 {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-container {
@@ -182,7 +187,6 @@ video {
   }
 
   .values-container > p {
-    height: 300vh;
     font-size: 15px;
   }
   .values-text-container {
