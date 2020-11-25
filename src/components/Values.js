@@ -19,7 +19,7 @@ function ValuesSection() {
     <br />
     <h3>Simplicity</h3><p>Search for simple solutions to help improve user understanding and to reduce risk.  </p>
     <br />
-    <h3>Ethics</h3><p>Approach business with high ethical principles and actively engage in discussions about Ethics within the Fintech community.  </p>
+    <h3>Ethics</h3><p>Approach business with high ethical principles and engage in discussions about Ethics within the Fintech community.  </p>
     <br />
     <h3>Methodical Action</h3><p>Take methodical and action oriented approaches to projects.  </p>
     <br />

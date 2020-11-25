@@ -123,7 +123,7 @@ video {
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
 
   .fxrisk-container {
-    height: 160vh;
+    height: 180vh;
   }
 
   .fxrisk-container > h1 {

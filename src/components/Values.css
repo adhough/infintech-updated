@@ -72,10 +72,14 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 70px;
-    margin-top: 0px;
+    margin-top: -100px;
+  }
+  .values-text-container > h3 {
+    font-size: 20px;
+
   }
   .values-container {
-    height: 100vh;
+    height: 120vh;
   }
   .values-text-container {
     height: 90%;
@@ -96,10 +100,14 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 70px;
-    margin-top: 0px;
+    margin-top: -100px;
+  }
+  .values-text-container > h3 {
+    font-size: 20px;
+
   }
   .values-container {
-    height: 400vh;
+    height: 500vh;
   }
   .values-text-container {
     height: 90%;
@@ -120,7 +128,7 @@ video {
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 70px;
-    margin-top: 0px;
+    margin-top: -100px;
   }
   .values-container {
     height: 800vh;
@@ -134,11 +142,15 @@ video {
   .values-text-container > p {
     font-size: 15px;
 }
+.values-text-container > h3 {
+  font-size: 20px;
+
+}
 }
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 70px;
-    margin-top: 0px;
+    margin-top: -100px;
   }
   .values-container {
     height: 500vh;
@@ -152,15 +164,19 @@ video {
   .values-text-container > p {
     font-size: 15px;
 }
+.values-text-container > h3 {
+  font-size: 20px;
+
+}
 }
 
 @media screen and (max-device-width: 425px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 50px;
-    margin-top: 0px;
+    margin-top: -100px;
   }
   .values-container  {
-    height: 290vh;
+    height: 320vh;
     font-size: 50px;
     margin-top: 0px;
   }
@@ -191,6 +207,10 @@ video {
   .btn {
     width: 100%;
   }
+  .values-text-container > h3 {
+    font-size: 20px;
+
+  }
 }
 
 @media screen and (max-device-width: 425px) and (orientation : landscape){
@@ -199,11 +219,11 @@ video {
   }
   .values-container > h1 {
     font-size: 50px;
-    margin-top: 0px;
+    margin-top: -100px;
   }
 
   .values-container > h3 {
-    font-size: 10px;
+    font-size: 20px;
   }
   .values-text-container {
     height: 80%;
