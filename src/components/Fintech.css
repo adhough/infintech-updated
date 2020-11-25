@@ -110,7 +110,7 @@ video {
     height: 300vh;
   }
   .fintech-container > img {
-    height: 10%;
+    height: 20%;
     width: 50%;
     display: block;
     justify-content: center;
@@ -139,7 +139,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait){
   .fintech-container {
-    height: 600vh;
+    height: 500vh;
   }
   .fintech-container > h1 {
     font-size: 50px;
@@ -184,7 +184,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape){
   .fintech-container {
-    height: 800vh;
+    height: 700vh;
   }
   .fintech-container > h1 {
     font-size: 50px;
@@ -195,7 +195,7 @@ video {
     font-size: 15px;
   }
   .fintech-container > img {
-    height: 10%;
+    height: 20%;
     width: 60%;
     display: block;
     justify-content: center;
@@ -286,7 +286,7 @@ video {
     font-size: 15px;
   }
   .fintech-container > img {
-    height: 10%;
+    height: 20%;
     width: 60%;
     display: block;
     justify-content: center;

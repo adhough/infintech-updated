@@ -67,7 +67,7 @@ video {
 
 .about-adrian-container > {
   height: 220vh;
-  width: auto;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -295,8 +295,8 @@ video {
     margin-right: 0%;
   }
   .about-adrian-container > img{
-    height: 50%;
-    width: 100%;
+    height: 30%;
+    width: 70%;
     border: 2px solid;
     border-color: #fff;
     display: block;
@@ -317,7 +317,7 @@ video {
 
 @media screen and (max-device-width: 425px) and (orientation : landscape){
   .about-container {
-    height: 600vh;
+    height: 400vh;
   }
   .about-container > h1 {
     font-size: 50px;
@@ -347,8 +347,8 @@ video {
     margin-right: 0%;
   }
   .about-adrian-container > img{
-    height: 50%;
-    width: 70%;
+    height: 30%;
+    width: 60%;
     border: 2px solid;
     border-color: #fff;
     display: block;

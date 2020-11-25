@@ -86,7 +86,7 @@ video {
   }
   .secmodel-project-container {
     width: 60%;
-    height: 70%;
+    height: 80%;
   }
 
   .secmodel-project-container > img {
@@ -123,7 +123,7 @@ video {
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
 
   .secmodel-container {
-    height: 160vh;
+    height: 180vh;
   }
 
   .secmodel-container > h1 {
@@ -146,7 +146,7 @@ video {
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
 
   .secmodel-container {
-    height: 600vh;
+    height: 400vh;
   }
 
   .secmodel-container > h1 {
@@ -168,7 +168,7 @@ video {
 
 @media screen and (max-width: 425px) and (orientation : portrait){
   .secmodel-container {
-    height: 200vh;
+    height: 300vh;
   }
   .secmodel-container > h1 {
     font-size: 30px;
@@ -200,7 +200,7 @@ video {
 
 @media screen and (max-width: 425px) and (orientation : landscape){
   .secmodel-container {
-    height: 320vh;
+    height: 300vh;
   }
   .secmodel-container > h1 {
     font-size: 30px;
