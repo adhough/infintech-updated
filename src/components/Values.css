@@ -69,7 +69,7 @@ video {
 .fa-play-circle {
   margin-left: 4px;
 }
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+@media screen and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 70px;
     margin-top: -100px;
@@ -97,17 +97,17 @@ video {
     font-size: 15px;
 }
 }
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
+@media screen and (max-device-height: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 70px;
     margin-top: -100px;
   }
   .values-text-container > h3 {
-    font-size: 20px;
+    font-size: 30px;
 
   }
   .values-container {
-    height: 400vh;
+    height: 300vh;
   }
   .values-text-container {
     height: 90%;
@@ -122,10 +122,10 @@ video {
     margin-right: 5%;
   }
   .values-text-container > p {
-    font-size: 15px;
+    font-size: 20px;
 }
 }
-@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : landscape) {
+@media screen and (max-device-height: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 70px;
     margin-top: -100px;
@@ -140,14 +140,14 @@ video {
     margin-right: 5%;
   }
   .values-text-container > p {
-    font-size: 15px;
+    font-size: 20px;
 }
 .values-text-container > h3 {
-  font-size: 20px;
+  font-size: 30px;
 
 }
 }
-@media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
+@media screen and (max-device-width: 426px) and (max-device-height: 767px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 70px;
     margin-top: -100px;
