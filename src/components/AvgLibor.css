@@ -76,7 +76,7 @@ video {
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .avglibor-container > h1 {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .avglibor-project-container {
@@ -97,7 +97,7 @@ video {
     height: 140vh;
   }
   .avglibor-container > h1 {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .avglibor-project-container {
@@ -115,7 +115,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
   .avglibor-container > h1 {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .avglibor-project-container {
@@ -136,7 +136,7 @@ video {
     height: 140vh;
   }
   .avglibor-container > h1 {
-    font-size: 70px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .avglibor-project-container {
