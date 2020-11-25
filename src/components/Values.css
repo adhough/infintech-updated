@@ -195,7 +195,7 @@ video {
 
 @media screen and (max-device-width: 425px) and (orientation : landscape){
   .values-container > {
-    height: 300vh;
+    height: 400vh;
   }
   .values-container > h1 {
     font-size: 50px;
