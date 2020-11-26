@@ -76,7 +76,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .agile-container > h1 {
     font-size: 50px;
-    margin-top: -100px;
+    margin-top: -150px;
   }
   .agile-project-container {
     width: 60%;
@@ -94,7 +94,7 @@ video {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .agile-container > h1 {
     font-size: 50px;
-    margin-top: -100px;
+    margin-top: -150px;
   }
   .agile-container > {
     height: 1000vh;
