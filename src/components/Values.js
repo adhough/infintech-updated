@@ -14,18 +14,17 @@ function ValuesSection() {
     <img src={Image2} alt="forest" />
     <br />
 
-    <br />
     <h3>Innovation</h3><p>Passion for developing solutions which can improve businesses and lives.  </p>
     <br />
     <h3>Simplicity</h3><p>Search for simple solutions to help improve user understanding and to reduce risk.  </p>
     <br />
-    <h3>Ethics</h3><p>Approach business with high ethical principles and engage in discussions about Ethics within the Fintech community.  </p>
+    <h3>Ethics</h3><p>Approach business with high ethical principles and engage in industry-wide discussions.  </p>
     <br />
     <h3>Methodical Action</h3><p>Take methodical and action oriented approaches to projects.  </p>
     <br />
     <h3>Openness to Ideas</h3><p>Welcome honest exchanges and be open to different persepectives and new ideas.  </p>
     <br />
-    <h3>First Principles</h3><p>Question and challenge assumptions, break down problems to essential elements and develop 'bottom-up' perspectives.  </p>
+    <h3>First Principles</h3><p>Question assumptions, break down problems to essential elements and develop 'bottom-up' perspectives.  </p>
     <br />
     </div>
 
