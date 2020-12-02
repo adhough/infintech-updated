@@ -75,7 +75,7 @@ video {
     margin-top: -100px;
   }
   .values-text-container > h3 {
-    font-size: 15px;
+    font-size: 10px;
 
   }
   .values-container {
@@ -103,11 +103,11 @@ video {
     margin-top: -100px;
   }
   .values-text-container > h3 {
-    font-size: 15px;
+    font-size: 10px;
 
   }
   .values-container {
-    height: 1000vh;
+    height: 1200vh;
   }
   .values-text-container {
     height: 80%;
@@ -131,7 +131,7 @@ video {
     margin-top: -100px;
   }
   .values-container {
-    height: 1000vh;
+    height: 1200vh;
   }
   .values-text-container {
     height: 80%;
@@ -143,7 +143,7 @@ video {
     font-size: 15px;
 }
 .values-text-container > h3 {
-  font-size: 15px;
+  font-size: 10px;
 }
 .values-text-container > img {
   height: 20%;
@@ -170,7 +170,7 @@ video {
     font-size: 15px;
 }
   .values-text-container > h3 {
-    font-size: 15px;
+    font-size: 10px;
 
 }
 }
@@ -212,7 +212,7 @@ video {
     width: 100%;
   }
   .values-text-container > h3 {
-    font-size: 15px;
+    font-size: 10px;
 
   }
 }
@@ -227,7 +227,7 @@ video {
   }
 
   .values-container > h3 {
-    font-size: 15px;
+    font-size: 10px;
   }
   .values-text-container {
     height: 80%;
