@@ -59,7 +59,7 @@ video {
   margin: auto;
 }
 .values-btns {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .values-btns .btn {
@@ -72,7 +72,7 @@ video {
 @media screen and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 30px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
   .values-text-container > h3 {
     font-size: 15px;
@@ -100,14 +100,14 @@ video {
 @media screen and (max-device-height: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 30px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
   .values-text-container > h3 {
     font-size: 15px;
 
   }
   .values-container {
-    height: 900vh;
+    height: 1000vh;
   }
   .values-text-container {
     height: 80%;
@@ -117,7 +117,7 @@ video {
   }
   .values-text-container > img {
     height: 20%;
-    width: 80%;
+    width: 60%;
     margin-left: 5%;
     margin-right: 5%;
   }
@@ -128,10 +128,10 @@ video {
 @media screen and (max-device-height: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .values-container > h1 {
     font-size: 30px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
   .values-container {
-    height: 700vh;
+    height: 1000vh;
   }
   .values-text-container {
     height: 80%;
@@ -178,7 +178,7 @@ video {
 @media screen and (max-device-width: 425px) and (orientation : portrait) {
   .values-container > h1 {
     font-size: 30px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
   .values-container  {
     height: 300vh;
@@ -223,7 +223,7 @@ video {
   }
   .values-container > h1 {
     font-size: 30px;
-    margin-top: -150px;
+    margin-top: -100px;
   }
 
   .values-container > h3 {
