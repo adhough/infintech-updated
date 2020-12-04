@@ -9,7 +9,7 @@ video {
 .secmodel-container {
   /* background: url('/images/Image13.jpeg') center center/cover no-repeat; */
   background-color: #bfc2c1;
-  height: 110vh;
+  height: 130vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -35,7 +35,7 @@ video {
 .secmodel-project-container {
 
   background-color: #fff;
-  height: 55%;
+  height: 60%;
   width: 50%;
   display: flex;
   flex-direction: column;
