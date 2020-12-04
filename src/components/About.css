@@ -127,8 +127,8 @@ video {
     margin-right: 5%;
   }
   .about-adrian-container {
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
   }
   .about-adrian-container > img{
     height: 50%;
@@ -141,13 +141,13 @@ video {
 
   }
   .about-container > p {
-    font-size: 30px;
+    font-size: 20px;
   }
   .about-text-container > p {
-    font-size: 30px;
+    font-size: 20px;
   }
   .about-adrian-container > p {
-    font-size: 30px;
+    font-size: 20px;
   }
 }
 
@@ -178,13 +178,13 @@ video {
     margin: auto;
   }
   .about-container > p {
-    font-size: 30px;
+    font-size: 20px;
   }
   .about-text-container > p {
-    font-size: 30px;
+    font-size: 20px;
   }
   .about-adrian-container > p {
-    font-size: 30px;
+    font-size: 20px;
   }
 }
 

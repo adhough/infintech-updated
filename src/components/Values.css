@@ -9,7 +9,7 @@ video {
 .values-container {
   /* background: url('/images/Image14.jpeg') center center/cover no-repeat; */
   background-color: #30818e;
-  height: 170vh;
+  height: 250vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -71,11 +71,11 @@ video {
 }
 @media screen and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation : portrait) {
   .values-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-text-container > h3 {
-    font-size: 10px;
+    font-size: 30px;
 
   }
   .values-container {
@@ -99,11 +99,11 @@ video {
 }
 @media screen and (max-device-height: 768px) and (max-device-width: 1024px) and (orientation : landscape) {
   .values-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-text-container > h3 {
-    font-size: 10px;
+    font-size: 30px;
 
   }
   .values-container {
@@ -127,7 +127,7 @@ video {
 }
 @media screen and (max-device-height: 426px) and (max-device-width: 767px) and (orientation : landscape) {
   .values-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-container {
@@ -143,7 +143,7 @@ video {
     font-size: 15px;
 }
 .values-text-container > h3 {
-  font-size: 10px;
+  font-size: 30px;
 }
 .values-text-container > img {
   height: 20%;
@@ -154,7 +154,7 @@ video {
 }
 @media screen and (max-device-width: 426px) and (max-device-height: 767px) and (orientation : portrait) {
   .values-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-container {
@@ -170,14 +170,14 @@ video {
     font-size: 15px;
 }
   .values-text-container > h3 {
-    font-size: 10px;
+    font-size: 30px;
 
 }
 }
 
 @media screen and (max-device-width: 425px) and (orientation : portrait) {
   .values-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
   .values-container  {
@@ -212,7 +212,7 @@ video {
     width: 100%;
   }
   .values-text-container > h3 {
-    font-size: 10px;
+    font-size: 30px;
 
   }
 }
@@ -222,12 +222,12 @@ video {
     height: 600vh;
   }
   .values-container > h1 {
-    font-size: 30px;
+    font-size: 50px;
     margin-top: -100px;
   }
 
   .values-container > h3 {
-    font-size: 10px;
+    font-size: 30px;
   }
   .values-text-container {
     height: 80%;
