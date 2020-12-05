@@ -98,10 +98,6 @@ The above examples selected had the strongest correlations in my analysis. It is
 </p>
 <br />
 <p>
-<b>Conclusion</b>
-</p>
-<br />
-<p>
 Global Co-operation between Governments, Regulators, Financial Services and Fintechs is required to reduce the cost of Cross-Border payments and to meet consumer demand for seamless, transparent and real-time processing. The World Bank estimated in 2018 that 77% of remittances went to low/middle income countries and that these payments are common during times of crisis, such as natural disasters[11]. Reducing the costs of remittances can help get more money into the hands of people who need it. Making these payments faster, cheaper and more transparent will support economic growth, international trade, global development and financial inclusion.  We also need to look at developing new digital tools to help the growing numbers of SMEs and individual investors who will need to manage their FX Risk exposures.
 
 
