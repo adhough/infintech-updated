@@ -9,7 +9,7 @@ video {
 .agile-container {
   /* background: url('/images/Image9.jpeg') center center/cover no-repeat; */
   background-color: #bfc2c1;
-  height: 100vh;
+  height: 120vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -100,7 +100,7 @@ video {
     margin-top: -150px;
   }
   .agile-container > {
-    height: 120vh;
+    height: 130vh;
   }
   .agile-project-container {
     width: 60%;
