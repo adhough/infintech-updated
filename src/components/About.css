@@ -114,7 +114,7 @@ video {
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .about-container {
-    height: 200vh;
+    height: 180vh;
   }
   .about-container > h1 {
     font-size: 50px;
@@ -127,17 +127,17 @@ video {
     margin-right: 5%;
   }
   .about-adrian-container {
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
   .about-adrian-container > img{
     height: 50%;
-    width: 20%;
+    width: 40%;
     display: block;
     justify-content: center;
     align-items: center;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
 
   }
   .about-container > p {
