@@ -75,7 +75,7 @@ video {
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .agile-container {
-    height: 120vh;
+    height: 140vh;
   }
   .agile-container > h1 {
     font-size: 50px;
@@ -100,7 +100,7 @@ video {
     margin-top: -150px;
   }
   .agile-container > {
-    height: 130vh;
+    height: 150vh;
   }
   .agile-project-container {
     width: 60%;
