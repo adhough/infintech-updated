@@ -16,7 +16,7 @@ function AboutSection() {
 
     <div className='about-text-container'>
     <p>My name is Adrian Hough and I am passionate about Finance, Economics, Technology and Entrepreneurship.  I have created a range of fintech-related articles and projects which are featured on this website, focusing on topics such as Open Banking, the FX Market and Ethics.</p>
-    <p><b>in-fintech.com</b> was developed using ReactJS, whilst the Projects featured on this website were developed using Python.
+    <p><b>in-fintech.com</b> was developed using ReactJS, whilst the Projects featured on this website were developed using Python.</p>
 
     <br />
     <div className='about-adrian-container'>
