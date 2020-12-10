@@ -66,7 +66,7 @@ video {
 }
 
 .about-adrian-container > {
-  height: 220vh;
+  height: 230vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -87,7 +87,7 @@ video {
 }
 .about-adrian-container > img{
   height: 50%;
-  width: 40%;
+  width: 35%;
   border: 2px solid;
   border-color: #fff;
   display: block;
@@ -114,7 +114,7 @@ video {
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .about-container {
-    height: 180vh;
+    height: 200vh;
   }
   .about-container > h1 {
     font-size: 50px;
@@ -190,7 +190,7 @@ video {
 
 @media screen and (min-device-width: 426px) and (max-device-width: 767px) and (orientation : portrait) {
   .about-container {
-    height: 200vh;
+    height: 220vh;
   }
   .about-container > h1 {
     font-size: 50px;
@@ -348,7 +348,7 @@ video {
   }
   .about-adrian-container > img{
     height: 30%;
-    width: 60%;
+    width: 50%;
     border: 2px solid;
     border-color: #fff;
     display: block;
