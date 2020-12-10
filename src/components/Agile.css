@@ -9,7 +9,7 @@ video {
 .agile-container {
   /* background: url('/images/Image9.jpeg') center center/cover no-repeat; */
   background-color: #bfc2c1;
-  height: 120vh;
+  height: 130vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -75,7 +75,7 @@ video {
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .agile-container {
-    height: 140vh;
+    height: 130vh;
   }
   .agile-container > h1 {
     font-size: 50px;
@@ -83,11 +83,11 @@ video {
   }
   .agile-project-container {
     width: 60%;
-    height: 80%;
+    height: 70%;
   }
 
   .agile-project-container > img {
-    height: 50%;
+    height: 40%;
     width: 70%;
     border: 1px solid black;
 
@@ -100,7 +100,7 @@ video {
     margin-top: -150px;
   }
   .agile-container > {
-    height: 200vh;
+    height: 220vh;
   }
   .agile-project-container {
     width: 60%;
@@ -142,11 +142,11 @@ video {
     margin-top: -100px;
   }
   .agile-container > {
-    height: 150vh;
+    height: 170vh;
   }
   .agile-project-container {
     width: 60%;
-    height: 80%;
+    height: 70%;
   }
 
   .agile-project-container > img {
