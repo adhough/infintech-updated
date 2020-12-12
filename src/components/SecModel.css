@@ -74,8 +74,6 @@ video {
 .fa-play-circle {
   margin-left: 4px;
 }
-
-
 /* #### Tablets Portrait or Landscape #### */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
   .secmodel-container {

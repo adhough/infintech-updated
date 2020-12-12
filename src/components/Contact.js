@@ -14,7 +14,7 @@ function ContactSection() {
       <br />
       <img src={Image16} alt="pine" />
       <br />
-      <p>Please send feedback on projects and articles.  Also contact 'in-fintech.com' for project proposals.</p>
+      <p>Please send feedback on the projects and articles featured in this website.  Also contact me regarding project proposals.</p>
 
       <br />
       <br />
