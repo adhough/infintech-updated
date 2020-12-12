@@ -35,8 +35,8 @@ video {
 .avglibor-project-container {
 
   background-color: #fff;
-  height: 50%;
-  width: 60%;
+  height: 60%;
+  width: 80%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -51,6 +51,10 @@ video {
   height: 50%;
   width: 50%;
   border: 1px solid black;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 
 }
 .avglibor-project-container > p {
