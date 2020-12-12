@@ -14,7 +14,7 @@ function SecModelSection() {
 <br />
 <img src={SecModel} alt="secmodel"/>
 <br />
-<p>This model calculates cash flows and the annual Internal Rate of Returns (IRR) for a Securitisation.  This website was developed using Python, Numpy, Pandas, Flask and deployed using Heroku.
+<p>This model calculates the annual Internal Rate of Returns (IRR) for a Securitisation.  This website was developed using Python, Numpy, Pandas, Flask and deployed using Heroku.
 </p>
 <br />
 <a href="https://secmodel.herokuapp.com/" target="_blank" rel="noreferrer">https://secmodel.herokuapp.com/</a>

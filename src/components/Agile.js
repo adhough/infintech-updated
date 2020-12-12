@@ -17,7 +17,7 @@ function AgileSection() {
 <br />
 <img src={Agile} alt="agile"/>
 <br />
-<p>This tool stores and manages project Epics and Stories.  To explore the tool, enter the username ‘demo_user’ and password ‘read_only’.  Developed using Python, Django, PostgreSQL and launched using Heroku.
+<p>This website manages project Epics and Stories.  To view, please enter the username ‘demo_user’ and password ‘read_only’.  Developed using Python, Django, PostgreSQL and launched using Heroku.
 </p>
 <br />
 <a href="https://agile-project-tracker.herokuapp.com/tracker/" target="_blank" rel="noreferrer">https://agile-project-tracker.herokuapp.com/tracker/</a>

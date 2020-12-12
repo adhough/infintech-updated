@@ -190,7 +190,7 @@ video {
 
 @media screen and (max-device-width: 425px) and (orientation : landscape){
   .agile-container {
-    height: 150vh;
+    height: 170vh;
   }
   .agile-container > h1 {
     font-size: 50px;
@@ -201,11 +201,11 @@ video {
     font-size: 30px;
   }
   .agile-project-container {
-    width: 85%;
+    width: 80%;
   }
   .agile-project-container > img {
     height: 40%;
-    width: 90%;
+    width: 80%;
     border: 1px solid black;
 
   }

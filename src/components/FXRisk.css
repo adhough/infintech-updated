@@ -201,7 +201,7 @@ video {
 
 @media screen and (max-width: 425px) and (orientation : landscape){
   .fxrisk-container{
-    height: 500vh;
+    height: 300vh;
   }
   .fxrisk-container > h1 {
     font-size: 30px;
