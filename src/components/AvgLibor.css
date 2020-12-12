@@ -36,7 +36,7 @@ video {
 
   background-color: #fff;
   height: 50%;
-  width: 50%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -80,7 +80,7 @@ video {
     margin-top: -100px;
   }
   .avglibor-project-container {
-    width: 70%;
+    width: 80%;
     height: 70%;
   }
 
@@ -101,7 +101,7 @@ video {
     margin-top: -100px;
   }
   .avglibor-project-container {
-    width: 60%;
+    width: 80%;
     height: 80%;
   }
 
@@ -119,7 +119,7 @@ video {
     margin-top: -100px;
   }
   .avglibor-project-container {
-    width: 70%;
+    width: 80%;
     height: 70%;
   }
 
@@ -140,7 +140,7 @@ video {
     margin-top: -100px;
   }
   .avglibor-project-container {
-    width: 70%;
+    width: 80%;
     height: 70%;
   }
 
@@ -165,7 +165,7 @@ video {
     font-size: 30px;
   }
   .avglibor-project-container {
-    width: 85%;
+    width: 80%;
     height: 60%;
   }
   .avglibor-project-container > img {
@@ -197,7 +197,7 @@ video {
     font-size: 15px;
   }
   .avglibor-project-container {
-    width: 85%;
+    width: 80%;
     height: 60%;
   }
   .avglibor-project-container > img {

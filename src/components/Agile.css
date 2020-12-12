@@ -42,7 +42,7 @@ video {
 
   background-color: #fff;
   height: 50%;
-  width: 50%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -82,7 +82,7 @@ video {
     margin-top: -150px;
   }
   .agile-project-container {
-    width: 60%;
+    width: 80%;
     height: 70%;
   }
 
@@ -103,7 +103,7 @@ video {
     height: 220vh;
   }
   .agile-project-container {
-    width: 60%;
+    width: 80%;
     height: 80%;
   }
 
@@ -124,7 +124,7 @@ video {
     height: 120vh;
   }
   .agile-project-container {
-    width: 60%;
+    width: 80%;
     height: 80%;
   }
 
@@ -142,10 +142,10 @@ video {
     margin-top: -100px;
   }
   .agile-container > {
-    height: 170vh;
+    height: 200vh;
   }
   .agile-project-container {
-    width: 60%;
+    width: 80%;
     height: 70%;
   }
 
