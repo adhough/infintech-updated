@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/infintech-updated/static/css/main.516c13d4.chunk.css",
-    "main.js": "/infintech-updated/static/js/main.f2df0259.chunk.js",
-    "main.js.map": "/infintech-updated/static/js/main.f2df0259.chunk.js.map",
+    "main.js": "/infintech-updated/static/js/main.dddf096a.chunk.js",
+    "main.js.map": "/infintech-updated/static/js/main.dddf096a.chunk.js.map",
     "runtime-main.js": "/infintech-updated/static/js/runtime-main.d5c8789e.js",
     "runtime-main.js.map": "/infintech-updated/static/js/runtime-main.d5c8789e.js.map",
     "static/js/2.92fd8c28.chunk.js": "/infintech-updated/static/js/2.92fd8c28.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.d5c8789e.js",
     "static/js/2.92fd8c28.chunk.js",
     "static/css/main.516c13d4.chunk.css",
-    "static/js/main.f2df0259.chunk.js"
+    "static/js/main.dddf096a.chunk.js"
   ]
 }
