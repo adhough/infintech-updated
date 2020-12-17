@@ -26,7 +26,7 @@ function AboutSection() {
     <p><b>Adrian Hough, BCom, MBA</b></p>
 
     <br />
-    <p>I was born in Australia but I have lived in London for the past 20 years.   I have worked in a range of roles within Financial Services and have delivered projects across asset classes such as Fixed Income, Derivatives, Structured Products and Commodities.  Outside of work I enjoy exploring the UK with my family and photos from these trips are featured throughout the website.</p>
+    <p>I was born in Australia and I have lived in London for the past 20 years.   I have worked in a range of roles within Financial Services and have delivered projects across asset classes such as Fixed Income, Derivatives, Structured Products and Commodities.  Outside of work I enjoy exploring the UK with my family and photos from these trips are featured throughout the website.</p>
     <br />
     </div>
     </div>
